@@ -25,6 +25,7 @@ go.work.sum
 .env
 
 stores/configs/my_config.json
+stores/configs/test_config.json
 
 spells/venv
 spells/__pycache__
