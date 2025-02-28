@@ -1,0 +1,43 @@
+[{
+    "Name": "Catnap",
+    "Range": "30 feet",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall unconscious for the spell\u2019s duration. The spell ends on a target early if it takes damage or someone uses an action to shake or slap it awake. If a target remains unconscious for the full duration, that target gains the benefit of a short rest, and it can\u2019t be affected by this spell again until it finishes a long rest.",
+    "Duration": "10 minutes",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Bard",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "S",
+        "M",
+        "a pinch of sand"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Enemies Abound",
+    "Range": "120 feet",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "You reach into the mind of one creature you can see and force it to make an Intelligence saving throw. A creature automatically succeeds if it is immune to being frightened. On a failed save, the target loses the ability to distinguish friend from foe, regarding all creatures it can see as enemies until the spell ends. Each time the target takes damage, it can repeat the saving throw, ending the effect on itself on a success.Whenever the affected creature chooses another creature as a target, it must choose the target at random from among the creatures it can see within range of the attack, spell, or other ability it\u2019s using. If an enemy provokes an opportunity attack from the affected creature, the creature must make that attack if it is able to.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+}]

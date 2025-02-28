@@ -1,0 +1,273 @@
+
+Arcane Eye
+Source: Player's Handbook
+4th-level divination
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S, M (a bit of bat fur)
+Duration: Concentration, up to 1 hour
+You create an invisible, magical eye within range that hovers in the air for the duration. You mentally receive visual information from the eye, which has normal vision and darkvision out to 30 feet. The eye can look in every direction.
+As an action, you can move the eye up to 30 feet in any direction. There is no limit to how far away from you the eye can move, but it can’t enter another plane of existence. A solid barrier blocks the eye’s movement, but the eye can pass through an opening as small as 1 inch in diameter.
+Spell Lists. Artificer, Wizard
+
+
+Aura of Life
+Source: Player's Handbook
+4th-level abjuration
+Casting Time: 1 action
+Range: Self (30-foot radius)
+Components: V
+Duration: Concentration, up to 10 minutes
+Life-preserving energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each non-hostile creature in the aura (including you) has resistance to necrotic damage, and its hit point maximum can’t be reduced. In addition, a non-hostile, living creature regains 1 hit point when it starts its turn in the aura with 0 hit points.
+Spell Lists. Cleric (Optional), Paladin
+
+
+Aura of Purity
+Source: Player's Handbook
+4th-level abjuration
+Casting Time: 1 action
+Range: Self (30-foot radius)
+Components: V
+Duration: Concentration, up to 10 minutes
+Purifying energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each non-hostile creature in the aura (including you) can’t become diseased, has resistance to poison damage, and has advantage on saving throws against effects that cause any of the following conditions: blinded, charmed, deafened, frightened, paralyzed, poisoned, and stunned.
+Spell Lists. Cleric (Optional), Paladin
+
+
+Banishment
+Source: Player's Handbook
+4th-level abjuration
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (an item distasteful to the target)
+Duration: Concentration, up to 1 minute
+You attempt to send one creature that you can see within range to another place of existence. The target must succeed on a Charisma saving throw or be banished.
+If the target is native to the plane of existence you’re on, you banish the target to a harmless demiplane. While there, the target is incapacitated. The target remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
+If the target is native to a different plane of existence that the one you’re on, the target is banished with a faint popping noise, returning to its home plane. If the spell ends before 1 minute has passed, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. Otherwise, the target doesn’t return.
+At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th.
+Spell Lists. Cleric, Paladin, Sorcerer, Warlock, Wizard
+
+
+Blight
+Source: Player's Handbook
+4th-level necromancy
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs.
+If you target a plant creature or a magical plant, it makes the saving throw with disadvantage, and the spell deals maximum damage to it. If you target a nonmagical plant that isn’t a creature, such as a tree or shrub, it doesn’t make a saving throw; it simply withers and dies.
+At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
+Spell Lists. Druid, Sorcerer, Warlock, Wizard
+
+
+Charm Monster
+Source: Xanathar's Guide to Everything
+4th-level enchantment
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 1 hour
+You attempt to charm a creature you can see within range. It must make a Wisdom saving throw, and it does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature is friendly to you. When the spell ends, the creature knows it was charmed by you.
+At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them.
+Spell Lists. Bard, Druid, Sorcerer, Warlock, Wizard
+
+
+Compulsion
+Source: Player's Handbook
+4th-level enchantment
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Creatures of your choice that you can see within range and that can hear you must make a Wisdom saving throw. A target automatically succeeds on this saving throw if it can’t be charmed. On a failed save, a target is affected by this spell. Until the spell ends, you can use a bonus action on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. It can take its action before it moves. After moving in this way, it can make another Wisdom saving throw to try to end the effect.
+A target isn’t compelled to move into an obviously deadly hazard, such as a fire pit, but it will provoke opportunity attacks to move in the designated direction.
+Spell Lists. Bard
+
+
+Confusion
+Source: Player's Handbook
+4th-level enchantment
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S, M (three nut shells)
+Duration: Concentration, up to 1 minute
+This spell assaults and twists creatures’ minds, spawning delusions and provoking uncontrolled actions. Each creature in a 10-foot-radius sphere centered on a point you choose within range must succeed on a Wisdom saving throw when you cast this spell or be affected by it.
+An affected target can’t take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn.
+d10 	Behavior
+1 	The creature uses all its movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. The creature doesn’t take an action this turn.
+2-6 	The creature doesn’t move or take actions this turn.
+7-8 	The creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, the creature does nothing this turn.
+9-10 	The creature can act and move normally.
+At the end of its turns, an affected target can make a Wisdom saving throw. If it succeeds, this effect ends for that target.
+At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, the radius of the sphere increases by 5 feet for each slot level above 4th.
+Spell Lists. Bard, Druid, Sorcerer, Wizard
+
+
+Conjure Minor Elementals
+Source: Player's Handbook
+4th-level conjuration
+Casting Time: 1 minute
+Range: 90 feet
+Components: V, S
+Duration: Concentration, up to 1 hour
+You summon elementals that appear in unoccupied spaces that you can see within range. You choose one the following options for what appears:
+    One elemental of challenge rating 2 or lower
+    Two elementals of challenge rating 1 or lower
+    Four elementals of challenge rating 1/2 or lower
+    Eight elementals of challenge rating 1/4 or lower
+An elemental summoned by this spell disappears when it drops to 0 hit points or when the spell ends.
+The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don’t issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions. The DM has the creatures’ statistics.
+At Higher Levels. When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
+Spell Lists. Druid, Wizard
+
+
+Conjure Woodland Beings
+Source: Player's Handbook
+4th-level conjuration
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (one holly berry per creature summoned)
+Duration: Concentration, up to 1 hour
+You summon fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
+    One fey creature of challenge rating 2 or lower
+    Two fey creatures of challenge rating 1 or lower
+    Four fey creatures of challenge rating 1/2 or lower
+    Eight fey creatures of challenge rating 1/4 or lower
+A summoned creature disappears when it drops to 0 hit points or when the spell ends.
+The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don’t issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions. The DM has the creatures’ statistics.
+At Higher Levels. When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot, and three times as many with an 8th-level slot.
+Spell Lists. Druid, Ranger
+
+
+Control Water
+Source: Player's Handbook
+4th-level transmutation
+Casting Time: 1 action
+Range: 300 feet
+Components: V, S, M (a drop of water and a pinch of dust)
+Duration: Concentration, up to 10 minutes
+Until the spell ends, you control any freestanding water inside an area you choose that is a cube up to 100 feet on a side. You can choose from any of the following effects when you cast this spell. As an action on your turn, you can repeat the same effect or choose a different one.
+Flood. You cause the water level of all standing water in the area to rise by as much as 20 feet. If the area includes a shore, the flooding water spills over onto dry land. If you choose an area in a large body of water, you instead create a 20-foot tall wave that travels from one side of the area to the other and then crashes down. Any Huge or smaller vehicles in the wave’s path are carried with it to the other side. Any Huge or smaller vehicles struck by the wave have a 25 percent chance of capsizing. The water level remains elevated until the spell ends or you choose a different effect. If this effect produced a wave, the wave repeats on the start of your next turn while the flood effect lasts.
+Part Water. You cause water in the area to move apart and create a trench. The trench extends across the spell’s area, and the separated water forms a wall to either side. The trench remains until the spell ends or you choose a different effect. The water then slowly fills in the trench over the course of the next round until the normal water level is restored.
+Redirect Flow. You cause flowing water in the area to move in a direction you choose, even if the water has to flow over obstacles, up walls, or in other unlikely directions. The water in the area moves as you direct it, but once it moves beyond the spell’s area, it resumes its flow based on the terrain conditions. The water continues to move in the direction you chose until the spell ends or you choose a different effect.
+Whirlpool. This effect requires a body of water at least 50 feet square and 25 feet deep. You cause a whirlpool to form in the center of the area. The whirlpool forms a vortex that is 5 feet wide at the base, up to 50 feet wide at the top, and 25 feet tall. Any creature or object in the water and within 25 feet of the vortex is pulled 10 feet toward it. A creature can swim away from the vortex by making a Strength (Athletics) check against your spell save DC.
+When a creature enters the vortex for the first time on a turn or starts its turn there, it must make a Strength saving throw. On a failed save, the creature takes 2d8 bludgeoning damage and is caught in the vortex until the spell ends. On a successful save, the creature takes half damage, and isn’t caught in the vortex. A creature caught in the vortex can use its action to try to swim away from the vortex as described above, but has disadvantage on the Strength (Athletics) check to do so.
+The first time each turn that an object enters the vortex, the object takes 2d8 bludgeoning damage, this damage occurs each round it remains in the vortex.
+Spell Lists. Cleric, Druid, Wizard
+
+
+Death Ward
+Source: Player's Handbook
+4th-level abjuration
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: 8 hours
+You touch a creature and grant it a measure of protection from death. The first time the target would drop to 0 hit points as a result of taking damage, the target instead drops to 1 hit point, and the spell ends. If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spells ends.
+Spell Lists. Cleric, Paladin
+
+
+Dimension Door
+Source: Player's Handbook
+4th-level conjuration
+Casting Time: 1 action
+Range: 500 feet
+Components: V
+Duration: Instantaneous
+You teleport yourself from your current location to any other spot within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as "200 feet straight downward" or "upward to the northwest at a 45-degree angle, 300 feet".
+You can bring along objects as long as their weight doesn’t exceed what you can carry. You can also bring one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you cast this spell.
+If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take 4d6 force damage, and the spell fails to teleport you.
+Spell Lists. Bard, Sorcerer, Warlock, Wizard
+
+
+Divination
+Source: Player's Handbook
+4th-level divination (ritual)
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes)
+Duration: Instantaneous
+Your magic and an offering put you in contact with a god or a god’s servants. You ask a single question concerning a specific goal, event, or activity to occur within 7 days. The DM offers a truthful reply. The reply might be a short phrase, a cryptic rhyme, or an omen.
+The spell doesn’t take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.
+If you cast this spell two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
+Spell Lists. Cleric, Druid (Optional), Wizard (Optional)
+
+
+Dominate Beast
+Source: Player's Handbook
+4th-level enchantment
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+You attempt to beguile a beast that you can see within range. It must succeed on a Wisdom saving throw or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has advantage on the saving throw.
+While the beast is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as “Attack that creature,” “Run over there,” or “Fetch that object.” If the creature completes the order and doesn’t receive further direction from you, it defends and preserves itself to the best of its ability.
+You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn’t do anything that you don’t allow it to do. During this time, you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.
+Each time the target takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw succeeds, the spell ends.
+At Higher Levels. When you cast this spell with a 5th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 6th-level spell slot, the duration is concentration, up to 1 hour. When you use a spell slot of 7th level or higher, the duration is concentration, up to 8 hours
+Spell Lists. Druid, Ranger (Optional), Sorcerer
+
+
+Evard's Black Tentacles
+Source: Player's Handbook
+4th-level conjuration
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S, M (a piece of tentacle from a giant octopus or a giant squid)
+Duration: Concentration, up to 1 minute
+Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in the area into difficult terrain.
+When a creature enters the affected area for the first time on a turn or starts its turn there, the creature must succeed on a Dexterity saving throw or take 3d6 bludgeoning damage and be restrained by the tentacles until the spell ends. A creature that starts its turn in the area and is already restrained by the tentacles takes 3d6 bludgeoning damage.
+A creature restrained by the tentacles can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself.
+Spell Lists. Wizard
+
+
+Fabricate
+Source: Player's Handbook
+4th-level transmutation
+Casting Time: 10 minutes
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous
+You convert raw materials into products of the same material. For example, you can fabricate a wooden bridge from a clump of trees, a rope from a patch of hemp, and clothes from flax or wool.
+Choose raw materials that you can see within range. You can fabricate a Large or smaller object (contained within a 10-foot cube, or eight connected 5-foot cubes), given a sufficient quantity of raw material. If you are working with metal, stone, or another mineral substance, however, the fabricated object can be no larger than Medium (contained within a single 5-foot cube). The quality of objects made by the spell is commensurate with the quality of the raw materials.
+Creatures or magic items can’t be created or transmuted by this spell. You also can’t use it to create items that ordinarily require a high degree of craftsmanship, such as jewelry, weapons, glass, or armor, unless you have proficiency with the type of artisan’s tools used to craft such objects.
+Spell Lists. Artificer, Wizard
+
+
+Fire Shield
+Source: Player's Handbook
+4th-level evocation
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (a bit of phosphorus or a firefly)
+Duration: 10 minutes
+Thin and wispy flames wreathe your body for the duration, shedding bright light in a 10-foot radius and dim light for an additional 10 feet. You can end the spell early by using an action to dismiss it.
+The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you resistance to cold damage, and the chill shield grants you resistance to fire damage.
+In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes 2d8 fire damage from a warm shield, or 2d8 cold damage from a cold shield.
+Spell Lists. Druid (Optional), Sorcerer (Optional), Wizard
+
+
+Freedom of Movement
+Source: Player's Handbook
+4th-level abjuration
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a leather strap, bound around the arm or a similar appendage)
+Duration: 1 hour
+You touch a willing creature. For the duration, the target’s movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce the target’s speed nor cause the target to be paralyzed or restrained.
+The target can also spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it grappled. Finally, being underwater imposes no penalties on the target’s movement or attacks.
+Spell Lists. Artificer, Bard, Cleric, Druid, Ranger
+
+
+Giant Insect
+Source: Player's Handbook
+4th-level transmutation
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, up to 10 minutes
+You transform up to ten centipedes, three spiders, five wasps, or one scorpion within range into giant versions of their natural forms for the duration. A centipede becomes a giant centipede, a spider becaomes a giant spider, a wasp becomes a giant wasp, and a scorpion becomes a giant scorpion.
+Each creature obeys your verbal commands, and in combat, they act on your turn each round. The DM has the statistics for these creatures and resolves their actions and movement.
+A creature remains in its giant size for the duration, until it drops to 0 hit points, or until you use an action to dismiss the effect on it.
+The DM might allow you to choose different targets. For example, if you transform a bee, its giant version might have the same statistics as a giant wasp.
+Spell Lists. Druid

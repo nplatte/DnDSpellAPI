@@ -1,0 +1,169 @@
+[{
+    "Name": "Create Bonfire",
+    "Range": "60 feet",
+    "Level": "cantrip",
+    "CastTime": "1 action",
+    "Description": "You create a bonfire on ground that you can see within range. Until the spell ends, the bonfire fills a 5-foot cube. Any creature in the bonfire\u2019s space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it enters the bonfire\u2019s space for the first time on a turn or ends its turn there.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Druid",
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "The spell\u2019s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8)."
+},
+{
+    "Name": "Infestation",
+    "Range": "30 feet",
+    "Level": "cantrip",
+    "CastTime": "1 action",
+    "Description": "You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution saving throw, or it takes 1d6 poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a d4 for the direction: 1, north; 2, south; 3, east; or 4, west. This movement doesn\u2019t provoke opportunity attacks, and if the direction rolled is blocked, the target doesn't move.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a living flea"
+    ],
+    "HigherLevels": "The spell\u2019s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6)."
+},
+{
+    "Name": "Ice Knife",
+    "Range": "60 feet",
+    "Level": "1st-level",
+    "CastTime": "1 action",
+    "Description": "You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of the point where the ice exploded must succeed on a Dexterity saving throw or take 2d6 cold damage.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "S",
+        "M",
+        "a drop of water or piece of ice"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the cold damage increases by 1d6 for each slot level above 1st."
+},
+{
+    "Name": "Dust Devil",
+    "Range": "60 feet",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "Choose an unoccupied 5-foot cube of air that you can see within range. An elemental force that resembles a dust devil appears in the cube and lasts for the spell\u2019s duration.Any creature that ends its turn within 5 feet of the dust devil must make a Strength saving throw. On a failed save, the creature takes 1d8 bludgeoning damage and is pushed 10 feet away. On a successful save, the creature takes half as much damage and isn\u2019t pushed.As a bonus action, you can move the dust devil up to 30 feet in any direction. If the dust devil moves over sand, dust, loose dirt, or small gravel, it sucks up the material and forms a 10-foot-radius cloud of debris around itself that lasts until the start of your next turn. The cloud heavily obscures its area.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a pinch of dust"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd."
+},
+{
+    "Name": "Healing Spirit",
+    "Range": "60 feet",
+    "Level": "2nd-level",
+    "CastTime": "1 bonus action",
+    "Description": "You call forth a nature spirit to soothe the wounded. The intangible spirit appears in a space that is a 5-foot cube you can see within range. The spirit looks like a transparent beast or fey (your choice).Until the spell ends, whenever you or a creature you can see moves into the spirit's space for the first time on a turn or starts its turn there, you can cause the spirit to restore 1d6 hit points to that creature (no action required). The spirit can\u2019t heal constructs or undead.As a bonus action on your turn, you can move the Spirit up to 30 feet to a space you can see. The spirit can heal a number of times equal to 1 + your spellcasting ability modifier (minimum of twice). After healing that number of times, the spirit disappears.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Ranger"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 3rd level or higher, the healing increases 1d6 for each slot level above 2nd."
+},
+{
+    "Name": "Summon Lesser Demons",
+    "Range": "60 feet",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "You utter foul words, summoning demons from the chaos of the Abyss. Roll on the following table to determine what appears.d6 \tDemons Summoned1-2 \tTwo demons of challenge rating 1 or lower3-4 \tFour demons of challenge rating 1/2 or lower5-6 \tEight demons of challenge rating 1/4 or lowerThe DM chooses the demons, such as manes or dretches, and you choose the unoccupied spaces you can see within range where they appear. A summoned demon disappears when it drops to 0 hit points or when the spell ends.The demons are hostile to all creatures, including you. Roll initiative for the summoned demons as a group, which has its own turns. The demons pursue and attack the nearest non-demons to the best of their ability.As part of casting the spell, you can form a circle on the ground with the blood used as a material component. The circle is large enough to encompass your space. While the spell lasts, the summoned demons can't cross the circle or harm it, and they can't target anyone within it. Using the material component in this manner consumes it when the spell ends.",
+    "Duration": "Concentration, up to 1 hour",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a vial of blood from a humanoid killed within the past 24 hours"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 6th or 7th level, you summon twice as many demons. If you cast it using a spell slot of 8th or 9th level, you summon three times as many demons."
+},
+{
+    "Name": "Thunder Step",
+    "Range": "90 ft",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "You teleport yourself to an unoccupied space you can see within range. Immediately after you disappear, a thunderous boom sounds, and each creature within 10 feet of the space you left must make a Constitution saving throw, taking 3d10 thunder damage on a failed save, or half as much damage on a successful one. The thunder can be heard from up to 300 feet away.You can bring along objects as long as their weight doesn\u2019t exceed what you can carry. You can also teleport one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you cast this spell, and there must be an unoccupied space within 5 feet of your destination space for the creature to appear in; otherwise, the creature is left behind.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d10 for each slot level above 3rd."
+},
+{
+    "Name": "Tidal Wave",
+    "Range": "120 feet",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "You conjure up a wave of water that crashes down on an area within range. The area can be up to 30 feet long, up to 10 feet wide, and up to 10 feet tall. Each creature in that area must make a Dexterity saving throw. On a failure, a creature takes 4d8 bludgeoning damage and is knocked prone. On a success, a creature takes half as much damage and isn\u2019t knocked prone. The water then spreads out across the ground in all directions, extinguishing unprotected flames in its area and within 30 feet of it.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a drop of water"
+    ],
+    "HigherLevels": ""
+}]

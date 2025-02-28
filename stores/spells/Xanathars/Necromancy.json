@@ -1,0 +1,57 @@
+[{
+    "Name": "Toll the Dead",
+    "Range": "60 feet",
+    "Level": "cantrip",
+    "CastTime": "1 action",
+    "Description": "You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom saving throw or take 1d8 necrotic damage. If the target is missing any of its hit points, it instead takes 1d12 necrotic damage.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "The spell\u2019s damage increases by one die when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12)."
+},
+{
+    "Name": "Cause Fear",
+    "Range": "60 feet",
+    "Level": "1st-level",
+    "CastTime": "1 action",
+    "Description": "You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them."
+},
+{
+    "Name": "Life Transference",
+    "Range": "30 feet",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "You sacrifice some of your health to mend another creature\u2019s injuries. You take 4d8 necrotic damage, which can\u2019t be reduced in any way, and one creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd."
+}]

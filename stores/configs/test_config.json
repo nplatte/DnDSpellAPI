@@ -1,0 +1,17 @@
+{
+    "Modules" : [
+        "PlayersHB"
+
+    ],
+    "Files" : [
+        "Evocation",
+        "Necromancy"
+    ],
+    "DBinfo" : {
+        "User" : "nplatte",
+        "Passwd" : "Sparta12456",
+        "Addr" : "127.0.0.1:3306",
+        "Net" : "tcp",
+        "DBname" : "spell_api"
+    }
+}

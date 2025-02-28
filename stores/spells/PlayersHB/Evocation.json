@@ -1,0 +1,795 @@
+[{
+    "Name": "Dancing Lights",
+    "Range": "120 feet",
+    "Level": "cantrip",
+    "CastTime": "1 action",
+    "Description": "You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius.As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell\u2019s range.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Bard",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a bit of phosphorus or wychwood, or a glowworm"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Eldritch Blast",
+    "Range": "120 feet",
+    "Level": "cantrip",
+    "CastTime": "1 action",
+    "Description": "A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Warlock"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam."
+},
+{
+    "Name": "Fire Bolt",
+    "Range": "120 feet",
+    "Level": "cantrip",
+    "CastTime": "1 action",
+    "Description": "You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn\u2019t being worn or carried.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "This spell\u2019s damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10)."
+},
+{
+    "Name": "Light",
+    "Range": "Touch",
+    "Level": "cantrip",
+    "CastTime": "1 action",
+    "Description": "You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.",
+    "Duration": "1 hour",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Bard",
+        "Cleric",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "M",
+        "a firefly or phosphorescent moss"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Ray of Frost",
+    "Range": "60 feet",
+    "Level": "cantrip",
+    "CastTime": "1 action",
+    "Description": "A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "The spell\u2019s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8)."
+},
+{
+    "Name": "Sacred Flame",
+    "Range": "60 feet",
+    "Level": "cantrip",
+    "CastTime": "1 action",
+    "Description": "Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "The spell\u2019s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8)."
+},
+{
+    "Name": "Shocking Grasp",
+    "Range": "Touch",
+    "Level": "cantrip",
+    "CastTime": "1 action",
+    "Description": "Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can\u2019t take reactions until the start of its next turn.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "The spell\u2019s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8)."
+},
+{
+    "Name": "Burning Hands",
+    "Range": "Self (15-foot cone)",
+    "Level": "1st-level",
+    "CastTime": "1 action",
+    "Description": "As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.The fire ignites any flammable objects in the area that aren\u2019t being worn or carried.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st."
+},
+{
+    "Name": "Chromatic Orb",
+    "Range": "90 feet",
+    "Level": "1st-level",
+    "CastTime": "1 action",
+    "Description": "You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range. You choose acid, cold, fire, lightning, poison, or thunder for the type of orb you create, and then make a ranged spell attack against the target. If the attack hits, the creature takes 3d8 damage of the type you chose.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a diamond worth at least 50 gp"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st."
+},
+{
+    "Name": "Cure Wounds",
+    "Range": "Touch",
+    "Level": "1st-level",
+    "CastTime": "1 action",
+    "Description": "A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Bard",
+        "Cleric",
+        "Druid",
+        "Paladin",
+        "Ranger"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st."
+},
+{
+    "Name": "Divine Favor",
+    "Range": "Self",
+    "Level": "1st-level",
+    "CastTime": "1 bonus action",
+    "Description": "Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra 1d4 radiant damage on a hit.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Paladin"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Faerie Fire",
+    "Range": "60 feet",
+    "Level": "1st-level",
+    "CastTime": "1 action",
+    "Description": "Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice).Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 10-foot radius.Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can\u2019t benefit from being invisible.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Bard",
+        "Druid"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Guiding Bolt",
+    "Range": "120 feet",
+    "Level": "1st-level",
+    "CastTime": "1 action",
+    "Description": "A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes 4d6 radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.",
+    "Duration": "1 round",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st."
+},
+{
+    "Name": "Healing Word",
+    "Range": "60 feet",
+    "Level": "1st-level",
+    "CastTime": "1 bonus action",
+    "Description": "A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Cleric",
+        "Druid"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st."
+},
+{
+    "Name": "Hellish Rebuke",
+    "Range": "60 feet",
+    "Level": "1st-level",
+    "CastTime": "1 reaction",
+    "Description": "You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Warlock"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st."
+},
+{
+    "Name": "Magic Missile",
+    "Range": "120 feet",
+    "Level": "1st-level",
+    "CastTime": "1 action",
+    "Description": "You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st."
+},
+{
+    "Name": "Searing Smite",
+    "Range": "Self",
+    "Level": "1st-level",
+    "CastTime": "1 bonus action",
+    "Description": "The next time you hit a creature with a melee weapon attack during the spell\u2019s duration, your weapon flares with white-hot intensity, and the attack deals an extra 1d6 fire damage to the target and causes the target to ignite in flames.At the start of each of its turns until the spell ends, the target must make a Constitution saving throw. On a failed save, it takes 1d6 fire damage. On a successful save, the spells ends. If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the spell ends.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Paladin",
+        "Ranger (Optional)"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the initial extra damage dealt by the attack increases by 1d6 for each slot above 1st."
+},
+{
+    "Name": "Thunderwave",
+    "Range": "Self (15-foot cube)",
+    "Level": "1st-level",
+    "CastTime": "1 action",
+    "Description": "A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn\u2019t pushed.In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell\u2019s effect, and the spell emits a thunderous boom audible out to 300 feet.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Druid",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st."
+},
+{
+    "Name": "Thunderous Smite",
+    "Range": "Self",
+    "Level": "1st-level",
+    "CastTime": "1 bonus action",
+    "Description": "The first time you hit with a melee weapon attack during this spell\u2019s duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Paladin"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Witch Bolt",
+    "Range": "30 feet",
+    "Level": "1st-level",
+    "CastTime": "1 action",
+    "Description": "A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage, and on each of your turns for the duration, you can use your action to deal 1d12 lightning damage to the target automatically. The spell ends if you use your action to do anything else. The spell also ends if the target is ever outside the spell\u2019s range or if it has total cover from you.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a twig from a tree that has been struck by lightning"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the initial damage increases by 1d12 for each slot level above 1st."
+},
+{
+    "Name": "Branding Smite",
+    "Range": "Self",
+    "Level": "2nd-level",
+    "CastTime": "1 bonus action",
+    "Description": "The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 radiant damage to the target, which becomes visible if it is invisible, and the target sheds dim light in a 5-foot radius and can\u2019t become invisible until the spell ends.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Paladin"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by 1d6 for each slot level above 2nd."
+},
+{
+    "Name": "Continual Flame",
+    "Range": "Touch",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn\u2019t use oxygen. A continual flame can be covered or hidden but not smothered or quenched.",
+    "Duration": "Until dispelled",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Cleric",
+        "Druid (Optional)",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "ruby dust worth 50 gp, which the spell consumes"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Darkness",
+    "Range": "60 feet",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "Magical darkness spreads from a point you choose within range to fill a 15-foot radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can\u2019t see through this darkness, and nonmagical light can\u2019t illuminate it.If the point you choose is on an object you are holding or one that isn\u2019t being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.If any of this spell\u2019s area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.",
+    "Duration": "Concentration, up to 10 minutes",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "M",
+        "bat fur and a drop of pitch or piece of coal"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Flame Blade",
+    "Range": "Self",
+    "Level": "2nd-level",
+    "CastTime": "1 bonus action",
+    "Description": "You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke the blade again as a bonus action.You can use your action to make a melee spell attack with the fiery blade. On a hit, the target takes 3d6 fire damage. The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.",
+    "Duration": "Concentration, up to 10 minutes",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Sorcerer (Optional)"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a leaf of sumac"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for every two slot levels above 2nd."
+},
+{
+    "Name": "Gust of Wind",
+    "Range": "Self (60-foot line)",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "A line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the spell\u2019s duration. Each creature that starts its turn in the line must succeed on a Strength saving throw or be pushed 15 feet away from you in a direction following the line.Any creature in the line must spend 2 feet of movement for every 1 foot it moves when moving closer to you.The gust disperses gas or vapor, and it extinguishes candles, torches, and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a 50 percent chance to extinguish them.As a bonus action on each of your turns before the spell ends, you can change the direction in which the line blasts from you.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Ranger (Optional)",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a legume seed"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Melf's Acid Arrow",
+    "Range": "90 feet",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 acid damage immediately and 2d4 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "powdered rhubarb leaf and an adder\u2019s stomach"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd."
+},
+{
+    "Name": "Moonbeam",
+    "Range": "120 feet",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "A silvery beam of pale light shines down in a 5-foot radius, 40-foot-high cylinder centered on a point within range. Until the spell ends, dim light fills the cylinder.When a creature enters the spell\u2019s area for the first time on a turn or starts its turn there, it is engulfed in ghostly flames that cause searing pain, and it must make a Constitution saving throw. It takes 2d10 radiant damage on a failed save, or half as much damage on a successful one.A shapechanger makes its saving throw with disadvantage. If it fails, it also instantly reverts to its original form and can\u2019t assume a different form until it leaves the spell\u2019s light.On each of your turns after you cast this spell, you can use an action to move the beam up to 60 feet in any direction.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "several seeds of any moonseed plant and a piece of opalescent feldspar"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd."
+},
+{
+    "Name": "Prayer of Healing",
+    "Range": "30 feet",
+    "Level": "2nd-level",
+    "CastTime": "10 minutes",
+    "Description": "Up to six creatures of your choice that you can see within range each regain hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric",
+        "Paladin (Optional)"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d8 for each slot level above 2nd."
+},
+{
+    "Name": "Scorching Ray",
+    "Range": "120 feet",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "You create three rays of fire and hurl them at targets within range. You can hurl them at one target or several. Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd."
+},
+{
+    "Name": "Shatter",
+    "Range": "60 feet",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.A nonmagical object that isn\u2019t being worn or carried also takes the damage if it\u2019s in the spell\u2019s area.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a chip of mica"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd."
+},
+{
+    "Name": "Spiritual Weapon",
+    "Range": "60 feet",
+    "Level": "2nd-level",
+    "CastTime": "1 bonus action",
+    "Description": "You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again.When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon. On a hit, the target takes force damage equal to 1d8 + your spellcasting ability modifier.As a bonus action on your turn, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it.The weapon can take whatever form you choose. Clerics of deities who are associated with a particular weapon (as St. Cuthbert is known for his mace and Thor for his hammer) make this spell\u2019s effect resemble that weapon.",
+    "Duration": "1 minute",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above the 2nd."
+},
+{
+    "Name": "Aura of Vitality",
+    "Range": "Self (30-foot radius)",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "Healing energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. You can use a bonus action to cause one creature in the aura (including you) to regain 2d6 hit points.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric (Optional)",
+        "Druid (Optional)",
+        "Paladin"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Blinding Smite",
+    "Range": "Self",
+    "Level": "3rd-level",
+    "CastTime": "1 bonus action",
+    "Description": "The next time you hit a creature with a melee weapon attack during this spell\u2019s duration, you weapon flares with a bright light, and the attack deals an extra 3d8 radiant damage to the target. Additionally, the target must succeed on a Constitution saving throw or be blinded until the spell ends.A creature blinded by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer blinded.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Paladin"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Crusader's Mantle",
+    "Range": "Self",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "Holy power radiates from you in an aura with a 30-foot radius, awakening boldness in friendly creatures. Until the spell ends, the aura moves with you, centered on you. While in the aura, each non-hostile creature in the aura (including you) deals an extra 1d4 radiant damage when it hits with a weapon attack.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Paladin"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Daylight",
+    "Range": "60 feet",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "A 60-foot-radius sphere of light spreads out from a point you choose within range. The sphere is bright light and sheds dim light for an additional 60 feet.If you chose a point on an object you are holding or one that isn\u2019t being worn or carried, the light shines from the object with and moves with it. Completely covering the affected object with an opaque object, such as a bowl or a helm, blocks the light.If any of this spell\u2019s area overlaps with an area of darkness created by a spell of 3rd level or lower, the spell that created the darkness is dispelled.",
+    "Duration": "1 hour",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric",
+        "Druid",
+        "Paladin",
+        "Ranger",
+        "Sorcerer"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Fireball",
+    "Range": "150 feet",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "A bright streak flashes from your pointing finger to a point you choose within range then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot radius must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren\u2019t being worn or carried.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a tiny ball of bat guano and sulfur"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd."
+},
+{
+    "Name": "Leomund's Tiny Hut",
+    "Range": "Self (10-foot-radius hemisphere)",
+    "Level": "3rd-level",
+    "CastTime": "1 minute",
+    "Description": "A 10-foot-radius immobile dome of force springs into existence around and above you and remains stationary for the duration. The spell ends if you leave its area.Nine creatures of Medium size or smaller can fit inside the dome with you. The spell fails if its area includes a larger creature or more than nine creatures. Creatures and objects within the dome when you cast this spell can move through it freely. All other creatures and objects are barred from passing through it. Spells and other magical effects can't extend through the dome or be cast through it. The atmosphere inside the space is comfortable and dry, regardless of the weather outside.Until the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside.",
+    "Duration": "8 hours",
+    "Concentration": "False",
+    "Ritual": "True",
+    "ClassList": [
+        "Bard",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a small crystal bead"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Lightning Bolt",
+    "Range": "Self (100-foot line)",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "A stroke of lightning forming a line of 100 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 8d6 lightning damage on a failed save, or half as much damage on a successful one.The lightning ignites flammable objects in the area that aren\u2019t being worn or carried.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a bit of fur and a rod of amber, crystal, or glass"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd."
+},
+{
+    "Name": "Mass Healing Word",
+    "Range": "60 feet",
+    "Level": "3rd-level",
+    "CastTime": "1 bonus action",
+    "Description": "As you call out words of restoration, up to six creatures of your choice that you can see within range regain hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard (Optional)",
+        "Cleric"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 4th level or higher, the healing increases by 1d4 for each slot level above 3rd."
+},
+{
+    "Name": "Sending",
+    "Range": "Unlimited",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "You send a short message of twenty-five words or less to a creature with which you are familiar. The creature hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The spell enables creatures with Intelligence scores of at least 1 to understand the meaning of your message.You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 5 percent chance that the message doesn't arrive.",
+    "Duration": "1 round",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Cleric",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a short piece of fine copper wire"
+    ],
+    "HigherLevels": ""
+}]

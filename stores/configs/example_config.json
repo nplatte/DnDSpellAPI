@@ -1,0 +1,17 @@
+{
+    "Modules" : [
+        "Put Folder Names in /DnDSpellAPI/stores/spells/ You Want To Include Here",
+        "PlayersHB"
+    ],
+    "Files" : [
+        "Put file names without the extension you want to include here",
+        "evocation"
+    ],
+    "DBinfo" : {
+        "User" : "DB username",
+        "Passwd" : "DB password",
+        "Addr" : "127.0.0.1:3306",
+        "Net" : "tcp",
+        "DBname" : "spell_api"
+    }
+}

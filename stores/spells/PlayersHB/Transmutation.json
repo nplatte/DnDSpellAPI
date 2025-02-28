@@ -1,0 +1,817 @@
+[{
+    "Name": "Druidcraft",
+    "Range": "30 feet",
+    "Level": "cantrip",
+    "CastTime": "1 action",
+    "Description": "Whispering to the spirits of nature, you create one of the following effects within range:    You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.    You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.    You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.    You instantly light or snuff out a candle, a torch, or a small campfire.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Mending",
+    "Range": "Touch",
+    "Level": "cantrip",
+    "CastTime": "1 minute",
+    "Description": "This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.This spell can physically repair a magic item or construct, but the spell can\u2019t restore magic to such an object.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Bard",
+        "Cleric",
+        "Druid",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "two lodestones"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Message",
+    "Range": "120 feet",
+    "Level": "cantrip",
+    "CastTime": "1 action",
+    "Description": "You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn\u2019t have to follow a straight line and can travel freely around corners or through openings.",
+    "Duration": "1 round",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Bard",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a short piece of copper wire"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Prestidigitation",
+    "Range": "10 feet",
+    "Level": "cantrip",
+    "CastTime": "1 action",
+    "Description": "This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:    You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.    You instantaneously light or snuff out a candle, a torch, or a small campfire.    You instantaneously clean or soil an object no larger than 1 cubic foot.    You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.    You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.    You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.",
+    "Duration": "Up to 1 hour",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Bard",
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Shillelagh",
+    "Range": "Touch",
+    "Level": "cantrip",
+    "CastTime": "1 bonus action",
+    "Description": "The wood of a club or quarterstaff you are holding is imbued with nature\u2019s power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon\u2019s damage die becomes a d8. The weapon also becomes magical, if it isn\u2019t already. The spell ends if you cast it again or if you let go of the weapon.",
+    "Duration": "1 minute",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "mistletoe, a shamrock leaf, and a club or quarterstaff"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Thaumaturgy",
+    "Range": "30 feet",
+    "Level": "cantrip",
+    "CastTime": "1 action",
+    "Description": "You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:    Your voice booms up to three times as loud as normal for 1 minute.    You cause flames to flicker, brighten, dim, or change color for 1 minute.    You cause harmless tremors in the ground for 1 minute.    You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.    You instantaneously cause an unlocked door or window to fly open or slam shut.    You alter the appearance of your eyes for 1 minute.If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.",
+    "Duration": "Up to 1 minute",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Thorn Whip",
+    "Range": "30 feet",
+    "Level": "cantrip",
+    "CastTime": "1 action",
+    "Description": "You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if the creature is Large or smaller, you pull the creature up to 10 feet closer to you.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Druid"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "the stem of a plant with thorns"
+    ],
+    "HigherLevels": "This spell\u2019s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6)."
+},
+{
+    "Name": "Create or Destroy Water",
+    "Range": "30 feet",
+    "Level": "1st-level",
+    "CastTime": "1 action",
+    "Description": "You either create or destroy water.Create Water. You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot cube within range, extinguishing exposed flames in the area.Destroy Water. You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot cube within range.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric",
+        "Druid"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a drop of water if creating water or a few grains of sand if destroying it"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 2nd level or higher, you create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot level above 1st."
+},
+{
+    "Name": "Expeditious Retreat",
+    "Range": "Self",
+    "Level": "1st-level",
+    "CastTime": "1 bonus action",
+    "Description": "This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action.",
+    "Duration": "Concentration, up to 10 minutes",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Feather Fall",
+    "Range": "60 feet",
+    "Level": "1st-level",
+    "CastTime": "1 reaction",
+    "Description": "Choose up to five falling creatures within range. A falling creature\u2019s rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.",
+    "Duration": "1 minute",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Bard",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "M",
+        "a small feather or piece of down"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Goodberry",
+    "Range": "Touch",
+    "Level": "1st-level",
+    "CastTime": "1 action",
+    "Description": "Up to ten berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day.The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Ranger"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a sprig of mistletoe"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Jump",
+    "Range": "Touch",
+    "Level": "1st-level",
+    "CastTime": "1 action",
+    "Description": "You touch a creature. The creature\u2019s jump distance is tripled until the spell ends.",
+    "Duration": "1 minute",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Druid",
+        "Ranger",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a grasshopper\u2019s hind leg"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Longstrider",
+    "Range": "Touch",
+    "Level": "1st-level",
+    "CastTime": "1 action",
+    "Description": "You touch a creature. The target\u2019s speed increases by 10 feet until the spell ends.",
+    "Duration": "1 hour",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Bard",
+        "Druid",
+        "Ranger",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a pinch of dirt"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st."
+},
+{
+    "Name": "Purify Food and Drink",
+    "Range": "10 feet",
+    "Level": "1st-level",
+    "CastTime": "1 action",
+    "Description": "All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "True",
+    "ClassList": [
+        "Artificer",
+        "Cleric",
+        "Druid",
+        "Paladin"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Alter Self",
+    "Range": "Self",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one.Aquatic Adaptation. You adapt your body to an aquatic environment, sprouting gills, and growing webbing between your fingers. You can breathe underwater and gain a swimming speed equal to your walking speed.Change Appearance. You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You also don\u2019t appear as a creature of a different size than you, and your basic shape stays the same; if you're bipedal, you can\u2019t use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your action to change your appearance in this way again.Natural Weapons. You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.",
+    "Duration": "Concentration, up to 1 hour",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Barkskin",
+    "Range": "Touch",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "You touch a willing creature. Until the spell ends, the target\u2019s skin has a rough, bark-like appearance, and the target\u2019s AC can\u2019t be less than 16, regardless of what kind of armor it is wearing.",
+    "Duration": "Concentration, up to 1 hour",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Ranger"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a handful of oak bark"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Cordon of Arrows",
+    "Range": "5 feet",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "You plant four pieces of nonmagical ammunition \u2013 arrows or crossbow bolts \u2013 in the ground within range and lay magic upon them to protect an area. Until the spell ends, whenever a creature other than you comes within 30 feet of the ammunition for the first time on a turn or ends its turn there, one piece of ammunition flies up to strike it. The creature must succeed on a Dexterity saving throw or take 1d6 piercing damage. The piece of ammunition is then destroyed. The spell ends when no ammunition remains.When you cast this spell, you can designate any creatures you choose, and the spell ignores them.",
+    "Duration": "8 hours",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Ranger"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "four or more arrows or bolts"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 3rd level or higher, the amount of ammunition that can be affected increases by two for each slot level above 2nd."
+},
+{
+    "Name": "Darkvision",
+    "Range": "Touch",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet.",
+    "Duration": "8 hours",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Druid",
+        "Ranger",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "either a pinch of dried carrot or an agate"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Enhance Ability",
+    "Range": "Touch",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains the effect until the spell ends.    Bear\u2019s Endurance. The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends.    Bull\u2019s Strength. The target has advantage on Strength checks, and their carrying capacity doubles.    Cat\u2019s Grace. The target has advantage on Dexterity checks. It also doesn\u2019t take damage from falling 20 feet or less if it isn\u2019t incapacitated.    Eagle\u2019s Splendor. The target has advantage on Charisma checks.    Fox\u2019s Cunning. The target has advantage on Intelligence checks.    Owl\u2019s Wisdom. The target has advantage on Wisdom checks.",
+    "Duration": "Concentration, up to 1 hour",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Bard",
+        "Cleric",
+        "Druid",
+        "Ranger (Optional)",
+        "Sorcerer",
+        "Wizard (Optional)"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "fur or a feather from a beast"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd."
+},
+{
+    "Name": "Enlarge/Reduce",
+    "Range": "30 feet",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution saving throw. On a success, the spell has no effect.If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.Enlarge. The target\u2019s size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category \u2013 from Medium to Large, for example. If there isn\u2019t enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength saving throws. The target\u2019s weapons also grow to match its new size. While these weapons are enlarged, the target\u2019s attack with them deal 1d4 extra damage.Reduce. The target\u2019s size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category \u2013 from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target\u2019s weapons also shrink to match its new size. While these weapons are reduced, the target\u2019s attacks with them deal 1d4 less damage (this can\u2019t reduce the damage below 1).",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Bard (Optional)",
+        "Druid (Optional)",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a pinch of powdered iron"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Heat Metal",
+    "Range": "60 feet",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn\u2019t drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Bard",
+        "Druid"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a piece of iron and a flame"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd."
+},
+{
+    "Name": "Knock",
+    "Range": "60 feet",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "Choose an object that you can see within range. The object can be a door, a box, a chest, a set of manacles, a padlock, or another object that contains a mundane or magical means that prevents access.A target that is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked.If you choose a target that is held shut with Arcane Lock, that spell is suppressed for 10 minutes, during which time the target can be opened and shut normally.When you cast the spell, a loud knock, audible from as far away as 300 feet, emanates from the target object.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Levitate",
+    "Range": "60 feet",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "One creature or loose object of your choice that you can see within range rises vertically, up to 20 feet, and remains suspended there for the duration. The spell can levitate a target that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected.The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target\u2019s altitude by up to 20 feet in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can use your action to move the target, which must remain within the spell\u2019s range.When the spell ends, the target floats gently to the ground if it is still aloft.",
+    "Duration": "Concentration, up to 10 minutes",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Magic Weapon",
+    "Range": "Touch",
+    "Level": "2nd-level",
+    "CastTime": "1 bonus action",
+    "Description": "You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.",
+    "Duration": "Concentration, up to 1 hour",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Paladin",
+        "Ranger (Optional)",
+        "Sorcerer (Optional)",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3."
+},
+{
+    "Name": "Rope Trick",
+    "Range": "Touch",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "You touch a length of rope that is up to 60 feet long. One end of the rope then rises into the air until the whole rope hangs perpendicular to the ground. At the upper end of the rope, an invisible entrance opens to an extradimensional space that lasts until the spell ends.The extradimensional space can be reached by climbing to the top of the rope. The space can hold as many as eight Medium or smaller creatures. The rope can be pulled into the space, making the rope disappear from view outside the space.Attacks and spells can\u2019t cross through the entrance into or out of the extradimensional space, but those inside can see out of it as if through a 3-foot-by-5-foot window centered on the rope.Anything inside the extradimensional space drops out when the spell ends.",
+    "Duration": "1 hour",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "powdered corn extract and a twisted loop of parchment"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Skywrite",
+    "Range": "Sight",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "You cause up to ten words to form in a part of the sky you can see. The words appear to be made of cloud and remain in place for the spell\u2019s duration. The words dissipate when the spell ends. A strong wind can disperse the clouds and end the spell early.",
+    "Duration": "Concentration, up to 1 day",
+    "Concentration": "True",
+    "Ritual": "True",
+    "ClassList": [
+        "Bard",
+        "Druid",
+        "Wizard",
+        "Artificer"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Spider Climb",
+    "Range": "Touch",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.",
+    "Duration": "Concentration, up to 1 hour",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a drop of bitumen and a spider"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Spike Growth",
+    "Range": "150 feet",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels.The transformation of the ground is camouflaged to look natural. Any creature that can\u2019t see the area at the time the spell is cast must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.",
+    "Duration": "Concentration, up to 10 minutes",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Ranger"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "seven sharp thorns or seven small twigs, each sharpened to a point"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Blink",
+    "Range": "Self",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "Roll a d20 at the end of each of your turns for the duration of the spell. On a roll of 11 or higher, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell fails and the casting is wasted if you were already on that plane).At the start of your next turn, and when the spell ends if you are on the Ethereal Plane, you return to an unoccupied space of your choice that you can see within 10 feet of the space you vanished from. If no unoccupied space is available within that range, you appear in the nearest unoccupied space (chosen at random if more that one space is equally near). You can dismiss this spell as an action.While on the Ethereal Plane, you can see and hear the plane you originated from, which is cast in shades of gray, and you can't see anything more than 60 feet away. You can only affect and be affected by other creatures on the Ethereal Plane. Creature that aren't there can't perceive you or interact with you, unless they have the ability to do so.",
+    "Duration": "1 minute",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Elemental Weapon",
+    "Range": "Touch",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "A nonmagical weapon you touch becomes a magic weapon. Choose one of the following damage types: acid, cold, fire, lightning, or thunder. For the duration, the weapon has a +1 bonus to attack rolls and deals an extra 1d4 damage of the chosen type when it hits.",
+    "Duration": "Concentration, up to 1 hour",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Druid (Optional)",
+        "Paladin",
+        "Ranger (Optional)"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 5th or 6th level, the bonus to attack rolls increases to +2 and the extra damage increases to 2d4. When you use a spell slot of 7th level or higher, the bonus increases to +3 and the extra damage increases to 3d4."
+},
+{
+    "Name": "Haste",
+    "Range": "30 feet",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "Choose a willing creature that you can see within range. Until the spell ends, the target\u2019s speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.When the spell ends, the target can\u2019t move or take actions until after its next turn, as a wave of lethargy sweeps over it.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a shaving of licorice root"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Lightning Arrow",
+    "Range": "Self",
+    "Level": "3rd-level",
+    "CastTime": "1 bonus action",
+    "Description": "The next time you make a ranged weapon attack during the spell\u2019s duration, the weapon\u2019s ammunition, or the weapon itself if it\u2019s a thrown weapon, transforms into a bolt of lightning. Make the attack roll as normal. The target takes 4d8 lightning damage on a hit, or half as much damage on a miss, instead of the weapon\u2019s normal damage.Whether you hit or miss, each creature within 10 feet of the target must make a Dexterity saving throw. Each of these creatures takes 2d8 lightning damage on a failed save, or half as much damage on a successful one.The piece of ammunition or weapon then returns to its normal form.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Ranger"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 4th level or higher, the damage for both effects of the spell increases by 1d8 for each slot level above 3rd."
+},
+{
+    "Name": "Meld into Stone",
+    "Range": "Touch",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "You step into a stone object or surface large enough to fully contain your body, melding yourself and all the equipment you carry with the stone for the duration. Using your movement, you step into the stone at a point you can touch. Nothing of your presence remains visible or otherwise detectable by nonmagical senses.While merged with the stone, you can\u2019t see what occurs outside it, and any Wisdom (Perception) checks you make to hear sounds outside it are made with disadvantage. You remain aware of the passage of time and can cast spells on yourself while merged in the stone. You can use your movement to leave the stone where you entered it, which ends the spell. You otherwise can\u2019t move.Minor physical damage to the stone doesn\u2019t harm you, but its partial destruction or a change in its shape (to the extent that you no longer fit within it) expels you and deals 6d6 bludgeoning damage to you. The stone\u2019s complete destruction (or transmutation into a different substance) expels you and deals 50 bludgeoning damage to you. If expelled, you fall prone in an unoccupied space closest to where you first entered.",
+    "Duration": "8 hours",
+    "Concentration": "False",
+    "Ritual": "True",
+    "ClassList": [
+        "Cleric",
+        "Druid",
+        "Ranger (Optional)"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Plant Growth",
+    "Range": "150 feet",
+    "Level": "3rd-level",
+    "CastTime": "1 action or 8 hours",
+    "Description": "This spell channels vitality into plants within a specific area. There are two possible uses for the spell, granting either immediate or long-term benefits.If you cast this spell using 1 action, choose a point within range. All normal plants in a 100-foot radius centered on that point become thick and overgrown. A creature moving through the area must spend 4 feet of movement for every 1 foot it moves.You can exclude one or more areas of any size within the spell\u2019s area from being affected.If you cast this spell over 8 hours, you enrich the land. All plants in a half-mile radius centered on a point within range become enriched for 1 year. The plants yield twice the normal amount of food when harvested.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Druid",
+        "Ranger"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Slow",
+    "Range": "120 feet",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.An affected target\u2019s speed is halved, it takes a -2 penalty to AC and Dexterity saving throws, and it can\u2019t use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature\u2019s abilities or magic items, it can\u2019t make more than one melee or ranged attack during its turn.If the creature attempts to cast a spell with a casting time of 1 action, roll a d20. On an 11 or higher, the spell doesn\u2019t take effect until the creature\u2019s next turn, and the creature must use its action on that turn to complete the spell. If it can\u2019t, the spell is wasted.A creature affected by this spell makes another Wisdom saving throw at the end of each of its turns. On a successful save, the effect ends for it.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard (Optional)",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a drop of molasses"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Speak with Plants",
+    "Range": "Self (30-foot radius)",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "You imbue plants within 30 feet of you with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell\u2019s area within the past day, gaining information about creatures that have passed, weather, and other circumstances.You can also turn difficult terrain caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into difficult terrain that lasts for the duration, causing vines and branches to hinder pursuers, for example.Plants might be able to perform other tasks on your behalf, at the DM\u2019s discretion. The spell doesn\u2019t enable plants to uproot themselves and move about, but they can freely move branches, tendrils, and stalks.If a plant creature is in the area, you can communicate with it as if you share a common language, but you gain no magical ability to influence it.This spell can cause the plants created by the entangle spell to release a restrained creature.",
+    "Duration": "10 minutes",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Druid",
+        "Ranger"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Water Breathing",
+    "Range": "30 feet",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "This spell grants up to ten willing creatures you can see within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.",
+    "Duration": "24 hours",
+    "Concentration": "False",
+    "Ritual": "True",
+    "ClassList": [
+        "Artificer",
+        "Druid",
+        "Ranger",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a short reed or piece of straw"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Water Walk",
+    "Range": "30 feet",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "This spell grants the ability to move across any liquid surface \u2013 such as water, acid, mud, snow, quicksand, or lava \u2013 as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). Up to ten willing creatures you can see within range gain this ability for the duration.If you target a creature submerged in a liquid, the spell carries the target to the surface of the liquid at a rate of 60 feet per round.",
+    "Duration": "1 hour",
+    "Concentration": "False",
+    "Ritual": "True",
+    "ClassList": [
+        "Artificer",
+        "Cleric",
+        "Druid",
+        "Ranger",
+        "Sorcerer"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a piece of cork"
+    ],
+    "HigherLevels": ""
+}]

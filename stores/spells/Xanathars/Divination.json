@@ -1,0 +1,40 @@
+[{
+    "Name": "Beast Bond",
+    "Range": "Touch",
+    "Level": "1st-level",
+    "CastTime": "1 action",
+    "Description": "You establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast\u2019s Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see.",
+    "Duration": "Concentration, up to 10 minutes",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Ranger"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a bit of fur wrapped in cloth"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Mind Spike",
+    "Range": "60 feet",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "You reach into the mind of one creature you can see within range. The target must make a Wisdom saving throw, taking 3d8 psychic damage on a failed save, or half as much damage on a successful one. On a failed save, you also always know the target's location until the spell ends, but only while the two of you are on the same plane of existence. While you have this knowledge, the target can\u2019t become hidden from you, and if it\u2019s invisible, it gains no benefit from that condition against you.",
+    "Duration": "Concentration, up to 1 hour",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd."
+}]

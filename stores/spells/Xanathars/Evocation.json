@@ -1,0 +1,187 @@
+[{
+    "Name": "Frostbite",
+    "Range": "60 feet",
+    "Level": "cantrip",
+    "CastTime": "1 action",
+    "Description": "You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Sorcerer",
+        "Warlock",
+        "Wizard",
+        "Artificer"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "The spell\u2019s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6)."
+},
+{
+    "Name": "Thunderclap",
+    "Range": "Self (5-foot radius)",
+    "Level": "cantrip",
+    "CastTime": "1 action",
+    "Description": "You create a burst of thunderous sound, which can be heard 100 feet away. Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Druid",
+        "Sorcerer",
+        "Warlock",
+        "Wizard",
+        "Artificer"
+    ],
+    "Components": [
+        "S"
+    ],
+    "HigherLevels": "The spell\u2019s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6)."
+},
+{
+    "Name": "Ceremony",
+    "Range": "Touch",
+    "Level": "1st-level",
+    "CastTime": "1 hour",
+    "Description": "You perform one of several religious ceremonies. When you cast the spell, choose one of the following ceremonies, the target of which must be within 10 feet of you throughout the casting.Atonement. You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom (Insight) check. On a successful check, you restore the target to its original alignment.Bless Water. You touch one vial of water and cause it to become holy water.Coming of Age. You touch one humanoid who is a young adult. For the next 24 hours, whenever the target makes an ability check, it can roll a d4 and add the number rolled to the ability check. A creature can benefit from this rite only once.Dedication. You touch one humanoid who wishes to be dedicated to your god\u2019s service. For the next 24 hours, whenever the target makes a saving throw, it can roll a d4 and add the number rolled to the save. A creature can benefit from this rite only once.Funeral Rite. You touch one corpse, and for the next 7 days, the target can\u2019t become undead by any means short of a Wish spell.Investiture (UA). You touch one willing humanoid. Choose one 1st-level spell you have prepared and expend a spell slot and any material components as if you were casting that spell. The spell has no effect. Instead, the target can cast this spell once without having to expend a spell slot or use material components. If the target doesn\u2019t cast the spell within 1 hour, the invested spell is lost.Wedding. You touch adult humanoids willing to be bonded together in marriage. For the next 7 days, each target gains a +2 bonus to AC while they are within 30 feet of each other. A creature can benefit from this rite again only if widowed.",
+    "Duration": "Instantaneous (see below)",
+    "Concentration": "False",
+    "Ritual": "True",
+    "ClassList": [
+        "Cleric",
+        "Paladin"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "25 gp worth of powdered silver, which the spell consumes"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Chaos Bolt",
+    "Range": "120 feet",
+    "Level": "1st-level",
+    "CastTime": "1 action",
+    "Description": "You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type, as shown below.d8 \tDamage Type1 \tAcid2 \tCold3 \tFire4 \tForce5 \tLightning6 \tPoison7 \tPsychic8 \tThunderIf you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.A creature can be targeted only once by each casting of this spell.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Sorcerer"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st."
+},
+{
+    "Name": "Earth Tremor",
+    "Range": "Self (10-foot radius)",
+    "Level": "1st-level",
+    "CastTime": "1 action",
+    "Description": "You cause a tremor in the ground in a 10-foot radius. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Druid",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st."
+},
+{
+    "Name": "Aganazzar's Scorcher",
+    "Range": "30 feet",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "A line of roaring flame 30 feet long and 5 feet wide emanates from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 3d8 fire damage on a failed save, or half as much damage on a successful one.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a red dragon\u2019s scale"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd."
+},
+{
+    "Name": "Snilloc's Snowball Swarm",
+    "Range": "90 feet",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "A flurry of magic snowballs erupts from a point you choose within range. Each creature in a 5-foot-radius sphere centered on that point must make a Dexterity saving throw. A creature takes 3d6 cold damage on a failed save, or half as much damage on a successful one.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a piece of ice or a small white rock chip"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd."
+},
+{
+    "Name": "Melf's Minute Meteors",
+    "Range": "Self",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "You create six tiny meteors in your space. They float in the air and orbit you for the spell\u2019s duration. When you cast the spell \u2014 and as a bonus action on each of your turns thereafter \u2014 you can expend one or two of the meteors, sending them streaking toward a point or points you choose within 120 feet of you. Once a meteor reaches its destination or impacts against a solid surface, the meteor explodes. Each creature within 5 feet of the point where the meteor explodes must make a Dexterity saving throw. A creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.",
+    "Duration": "Concentration, up to 10 minutes",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "niter, sulfur, and pine tar formed into a bead"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 4th level or higher, the number of meteors created increases by two for each slot level above 3rd."
+},
+{
+    "Name": "Wall of Sand",
+    "Range": "90 feet",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "You conjure up a wall of swirling sand on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 10 feet thick, and it vanishes when the spell ends. It blocks line of sight but not movement. A creature is blinded while in the wall\u2019s space and must spend 3 feet of movement for every 1 foot it moves there.",
+    "Duration": "Concentration, up to 10 minutes",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a handful of sand"
+    ],
+    "HigherLevels": ""
+}]

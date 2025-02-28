@@ -1,0 +1,290 @@
+[{
+    "Name": "Chill Touch",
+    "Range": "120 feet",
+    "Level": "cantrip",
+    "CastTime": "1 action",
+    "Description": "You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can\u2019t regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn.",
+    "Duration": "1 round",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "This spell\u2019s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8)."
+},
+{
+    "Name": "Spare the Dying",
+    "Range": "Touch",
+    "Level": "cantrip",
+    "CastTime": "1 action",
+    "Description": "You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Cleric"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "False Life",
+    "Range": "Self",
+    "Level": "1st-level",
+    "CastTime": "1 action",
+    "Description": "Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration",
+    "Duration": "1 hour",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a small amount of alcohol or distilled spirits"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st."
+},
+{
+    "Name": "Inflict Wounds",
+    "Range": "Touch",
+    "Level": "1st-level",
+    "CastTime": "1 action",
+    "Description": "Make a melee spell attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st."
+},
+{
+    "Name": "Ray of Sickness",
+    "Range": "60 feet",
+    "Level": "1st-level",
+    "CastTime": "1 action",
+    "Description": "A ray of sickening greenish energy lashes out toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st."
+},
+{
+    "Name": "Blindness/Deafness",
+    "Range": "30 feet",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the spell ends.",
+    "Duration": "1 minute",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Cleric",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd."
+},
+{
+    "Name": "Gentle Repose",
+    "Range": "Touch",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "You touch a corpse or other remains. For the duration, the target is protected from decay and can\u2019t become undead.The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don\u2019t count against the time limit of spells such as raise dead.",
+    "Duration": "10 days",
+    "Concentration": "False",
+    "Ritual": "True",
+    "ClassList": [
+        "Cleric",
+        "Paladin (Optional)",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a pinch of salt and one copper piece placed on each of the corpse\u2019s eyes, which must remain there for the duration"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Ray of Enfeeblement",
+    "Range": "60 feet",
+    "Level": "2nd-level",
+    "CastTime": "1 action",
+    "Description": "A black beam of enervating energy springs from your finger toward a creature within range. Make a ranged spell attack against the target. On a hit, the target deals only half damage with weapon attacks that use Strength until the spell ends.At the end of each of the target\u2019s turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Animate Dead",
+    "Range": "10 feet",
+    "Level": "3rd-level",
+    "CastTime": "1 minute",
+    "Description": "This spell creates an undead servant. Choose a pile of bones or a corpse of a Medium or Small humanoid within range. Your spell imbues the target with a foul mimicry of life, raising it as an undead creature. The target becomes a skeleton if you chose bones or a zombie if you chose a corpse (the DM has the creature\u2019s game statistics).On each of your turns, you can use a bonus action to mentally command any creature you made with this spell if the creature is within 60 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.The creature is under your control for 24 hours, after which it stops obeying any command you\u2019ve given it. To maintain the control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a drop of blood, a piece of flesh, and a pinch of bone dust"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 4th level or higher, you animate or reassert control over two additional undead creatures for each slot level above 3rd. Each of the creatures must come from a different corpse or pile of bones."
+},
+{
+    "Name": "Bestow Curse",
+    "Range": "Touch",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:    Choose one ability score. While cursed, the target has disadvantage on ability checks and saving throws made with that ability score.    While cursed, the target has disadvantage on attack rolls against you.    While cursed, the target must make a Wisdom saving throw at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.    While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.A remove curse spell ends this effect. At the DM's option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The DM has final say on such a curse's effect.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Cleric",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "If you cast this spell using a spell slot of 4th level or higher, the duration is concentration, up to 10 minutes. If you use a spell slot of 5th level or higher, the duration is 8 hours. If you use a spell slot of 7th level or higher, the duration is 24 hours. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesn't require concentration."
+},
+{
+    "Name": "Feign Death",
+    "Range": "Touch",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "You touch a willing creature and put it into a cataleptic state that is indistinguishable from death.For the spell\u2019s duration, or until you use an action to touch the target and dismiss the spell, the target appears dead to all outward inspection and to spells used to determine the target\u2019s status. The target is blinded and incapacitated, and its speed drops to 0. The target has resistance to all damage except psychic damage. If the target is diseased or poisoned when you cast the spell, or becomes diseased or poisoned while under the spell\u2019s effect, the disease and poison have no effect until the spell ends.",
+    "Duration": "1 hour",
+    "Concentration": "False",
+    "Ritual": "True",
+    "ClassList": [
+        "Bard",
+        "Cleric",
+        "Druid",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a pinch of graveyard dirt"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Revivify",
+    "Range": "Touch",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can\u2019t return to life a creature that has died of old age, nor can it restore any missing body parts.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Cleric",
+        "Druid (Optional)",
+        "Paladin",
+        "Ranger (Optional)"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "diamonds worth 300 gp, which the spell consumes"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Speak with Dead",
+    "Range": "10 feet",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "You grant the semblance of life and intelligence to a corpse of your choice within range, allowing it to answer the questions you pose. The corpse must still have a mouth and can\u2019t be undead. The spell fails if the corpse was the target of this spell within the last 10 days.Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are hostile to it or it recognizes you as an enemy. This spell doesn\u2019t return the creature\u2019s soul to its body, only its animating spirit. Thus, the corpse can\u2019t learn new information, doesn\u2019t comprehend anything that has happened since it died, and can\u2019t speculate about future events.",
+    "Duration": "10 minutes",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Cleric",
+        "Wizard (Optional)"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "burning incense"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Vampiric Touch",
+    "Range": "Self",
+    "Level": "3rd-level",
+    "CastTime": "1 action",
+    "Description": "The touch of your shadow-wreathed hand can siphon force from others to heal your wounds. Make a melee spell attack against a creature within your reach. On a hit, the target takes 3d6 necrotic damage, and you regain hit points equal to half the amount of necrotic damage dealt. Until the spell ends, you can make the attack again on each of your turns as an action.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Sorcerer",
+        "Sorcerer (Optional)",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd."
+}]

@@ -1,0 +1,44 @@
+[{
+    "Name": "Absorb Elements",
+    "Range": "Self",
+    "Level": "1st-level",
+    "CastTime": "1 reaction",
+    "Description": "The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.",
+    "Duration": "1 round",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Druid",
+        "Ranger",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st."
+},
+{
+    "Name": "Snare",
+    "Range": "Touch",
+    "Level": "1st-level",
+    "CastTime": "1 minute",
+    "Description": "While you cast this spell, you use the cord or rope to create a circle with a 5-foot radius on a flat surface within your reach. When you finish casting, the cord or rope disappears to become a magical trap.The trap is nearly invisible and requires a successful Intelligence (Investigation) check against your spell save DC to be found.The trap triggers when a Small creature or larger moves into the area protected by the spell. The triggering creature must succeed on a Dexterity saving throw or fall prone and be hoisted into the air until it hangs upside down 3 feet above the protected surface, where it is restrained.The restrained creature can make a Dexterity saving throw with disadvantage at the end of each of its turns and ends the restrained effect on a success. Alternatively, another creature that can reach the restrained creature can use an action to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect also ends.",
+    "Duration": "Until dispelled or triggered",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Druid",
+        "Ranger",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "30 feet of cord or rope, which is consumed by the spell"
+    ],
+    "HigherLevels": ""
+}]
