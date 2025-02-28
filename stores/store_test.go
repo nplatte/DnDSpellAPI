@@ -8,6 +8,8 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
+var config_path string = "/home/nplatte/Desktop/DnDSpellAPI/stores/configs/test_config.json"
+
 var firebolt Spell = Spell{
 	Name:          "Fire Bolt",
 	Range:         "120 feet",
@@ -28,14 +30,14 @@ func TestMakeInMemoryStore(t *testing.T) {
 	// checks to make sure returns correct type
 	t.Run("Assert Store is correct Types", func(t *testing.T) {
 		assert.IsType(t, &InMemoryStore{}, MakeInMemoryStore())
-		assert.IsType(t, &InDatabaseStore{}, MakeInDatabaseStore())
+		assert.IsType(t, &InDatabaseStore{}, MakeInDatabaseStore(config_path))
 	})
 }
 
 func TestDatabaseGetConn(t *testing.T) {
 	store := &InDatabaseStore{}
 	t.Run("test Gen Conn", func(t *testing.T) {
-		connected, err := store.GetDBConn()
+		connected, err := store.GetDBConn(config_path)
 		assert.Equal(t, nil, err)
 		assert.True(t, connected)
 	})
@@ -68,7 +70,7 @@ func TestMemoryGetSpell(t *testing.T) {
 }
 
 func TestDatabaseGetSpell(t *testing.T) {
-	store := MakeInDatabaseStore()
+	store := MakeInDatabaseStore(config_path)
 	assertSpellNotFound(t, store)
 	err := loadSpellIntoSQLDB(firebolt, store)
 	if err != nil {
@@ -91,7 +93,7 @@ func assertStoreLoads(t *testing.T, store SpellStore, name string) {
 
 func TestLoadStore(t *testing.T) {
 	assertStoreLoads(t, MakeInMemoryStore(), "In Memory Loads Store")
-	assertStoreLoads(t, MakeInDatabaseStore(), "In Database Loads Store")
+	assertStoreLoads(t, MakeInDatabaseStore(config_path), "In Database Loads Store")
 }
 
 func assertLoadModule(t *testing.T, store SpellStore, name string) {
@@ -108,7 +110,7 @@ func assertLoadModule(t *testing.T, store SpellStore, name string) {
 
 func TestMemoryLoadModule(t *testing.T) {
 	assertLoadModule(t, MakeInMemoryStore(), "In Memory Load Module")
-	assertLoadModule(t, MakeInDatabaseStore(), "In Database Load Module")
+	assertLoadModule(t, MakeInDatabaseStore(config_path), "In Database Load Module")
 }
 
 func assertLoadSchool(t *testing.T, store SpellStore, name string) {
@@ -124,7 +126,7 @@ func assertLoadSchool(t *testing.T, store SpellStore, name string) {
 
 func TestLoadSchool(t *testing.T) {
 	assertLoadSchool(t, MakeInMemoryStore(), "Memory Load School")
-	assertLoadSchool(t, MakeInDatabaseStore(), "Database Load School")
+	assertLoadSchool(t, MakeInDatabaseStore(config_path), "Database Load School")
 }
 
 func TestMemoryLoadSpell(t *testing.T) {
@@ -142,7 +144,7 @@ func TestMemoryLoadSpell(t *testing.T) {
 }
 
 func TestDatabaseLoadSpell(t *testing.T) {
-	store := MakeInDatabaseStore()
+	store := MakeInDatabaseStore(config_path)
 	t.Run("Test Load Spell", func(t *testing.T) {
 		// assert the DB is empty
 		var spell Spell

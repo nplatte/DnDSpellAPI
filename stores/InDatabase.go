@@ -8,9 +8,9 @@ import (
 	"os"
 )
 
-func MakeInDatabaseStore() *InDatabaseStore {
+func MakeInDatabaseStore(config_path string) *InDatabaseStore {
 	store := &InDatabaseStore{}
-	store.GetDBConn()
+	store.GetDBConn(config_path)
 	err := store.CreateTables()
 	if err != nil {
 		panic(err)
@@ -40,8 +40,8 @@ func (store *InDatabaseStore) GetSpell(name string) (Spell, error) {
 	return spell, err
 }
 
-func (store *InDatabaseStore) GetDBConn() (bool, error) {
-	raw, err := os.ReadFile("/home/nplatte/Desktop/DnDSpellAPI/stores/configs/my_config.json")
+func (store *InDatabaseStore) GetDBConn(config_path string) (bool, error) {
+	raw, err := os.ReadFile(config_path)
 	if err != nil {
 		panic(err)
 	}
@@ -103,7 +103,6 @@ func (store *InDatabaseStore) LoadSchool(school string, module string) error {
 func (store *InDatabaseStore) LoadSpell(spell Spell) error {
 	classJSON, _ := json.Marshal(spell.ClassList)
 	componentsJSON, _ := json.Marshal(spell.Components)
-	fmt.Printf("%s", spell.Name)
 	insert := "INSERT INTO spells (Name, SpellRange, Level, CastTime, Description, Duration, Concentration, Ritual, ClassList, Source, School, Components, HigherLevels) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);"
 	_, err := store.db.Exec(insert, spell.Name, spell.Range, spell.Level, spell.CastTime, spell.Description, spell.Duration, spell.Concentration, spell.Ritual, classJSON, spell.Source, spell.School, componentsJSON, spell.HigherLevels)
 	return err

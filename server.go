@@ -7,6 +7,8 @@ import (
 	store "github.com/nplatte/DnDSpellAPI/stores"
 )
 
+var config_path string = "/home/nplatte/Desktop/DnDSpellAPI/stores/configs/my_config.json"
+
 type SpellServer struct {
 	db store.SpellStore
 }
@@ -24,7 +26,7 @@ func InitializeServer() *SpellServer {
 // returns a Spell server to use
 func StartServer() *SpellServer {
 	server := SpellServer{}
-	server.db = store.MakeInDatabaseStore()
+	server.db = store.MakeInDatabaseStore(config_path)
 	return &server
 }
 
