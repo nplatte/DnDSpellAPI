@@ -49,11 +49,7 @@ func (server *SpellServer) HandleGETSpellName(ctx echo.Context) error {
 	return ctx.JSON(http.StatusOK, spell)
 }
 
-// I want a func that initializes the server
-// This would start the webserver, connect to the DB, then load the DB with the json files
-// I also want a func that starts the webserver
-// This would do the same as above, but not load any new data into the database
-
+// the main function that drives the server
 func main() {
 	var server *SpellServer
 	// this is for starting an already existing server
