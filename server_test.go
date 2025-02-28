@@ -36,19 +36,19 @@ func assertGETSpell(t *testing.T, test testCase) {
 func TestGETFirebolt(t *testing.T) {
 	test := testCase{
 		name:      "Get Firebolt returns Firebolt",
-		spellName: "Firebolt",
+		spellName: "Fire Bolt",
 		json: `{
-			"Name" : "Firebolt",
+			"Name" : "Fire Bolt",
 			"Range" : "120 feet",
-			"Level" : "Cantrip",
+			"Level" : "cantrip",
 			"CastTime" : "1 action",
 			"Description" : "You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.",
 			"Duration" : "Instantaneous",
 			"Concentration" : "False",
 			"Ritual" : "False",
-			"ClassList" : ["Sorcerer", "Artificer", "Wizard"],
+			"ClassList" : ["Artificer", "Sorcerer", "Wizard"],
 			"Source" : "PlayersHB",
-			"School" : "evocation",
+			"School" : "Evocation",
 			"Components" : ["V", "S"],
 			"HigherLevels" : "This spell’s damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10)."
 		}`,
@@ -61,9 +61,9 @@ func TestGETTollTheDead(t *testing.T) {
 		name:      "Get Toll the Dead returns Toll the Dead",
 		spellName: "Spare The Dying",
 		json: `{
-			"Name" : "Spare The Dying",
+			"Name" : "Spare the Dying",
 			"Range" : "Touch",
-			"Level" : "Cantrip",
+			"Level" : "cantrip",
 			"CastTime" : "1 action",
 			"Description" : "You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.",
 			"Duration" : "Instantaneous",
@@ -71,7 +71,7 @@ func TestGETTollTheDead(t *testing.T) {
 			"Ritual" : "False",
 			"ClassList" : ["Artificer", "Cleric"],
 			"Source" : "PlayersHB",
-			"School" : "necromancy",
+			"School" : "Necromancy",
 			"Components" : ["V", "S"],
 			"HigherLevels" : ""
 		}`,
