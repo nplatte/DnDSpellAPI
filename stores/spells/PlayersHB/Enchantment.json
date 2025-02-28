@@ -368,4 +368,170 @@
         "a snake\u2019s tongue and either a bit of honeycomb or a drop of sweet oil"
     ],
     "HigherLevels": ""
+},
+{
+    "Name": "Charm Monster",
+    "Range": "30 feet",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "You attempt to charm a creature you can see within range. It must make a Wisdom saving throw, and it does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature is friendly to you. When the spell ends, the creature knows it was charmed by you.",
+    "Duration": "1 hour",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Druid",
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them."
+},
+{
+    "Name": "Compulsion",
+    "Range": "30 feet",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "Creatures of your choice that you can see within range and that can hear you must make a Wisdom saving throw. A target automatically succeeds on this saving throw if it can\u2019t be charmed. On a failed save, a target is affected by this spell. Until the spell ends, you can use a bonus action on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. It can take its action before it moves. After moving in this way, it can make another Wisdom saving throw to try to end the effect.A target isn\u2019t compelled to move into an obviously deadly hazard, such as a fire pit, but it will provoke opportunity attacks to move in the designated direction.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Confusion",
+    "Range": "90 feet",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "This spell assaults and twists creatures\u2019 minds, spawning delusions and provoking uncontrolled actions. Each creature in a 10-foot-radius sphere centered on a point you choose within range must succeed on a Wisdom saving throw when you cast this spell or be affected by it.An affected target can\u2019t take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn.d10 \tBehavior1 \tThe creature uses all its movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. The creature doesn\u2019t take an action this turn.2-6 \tThe creature doesn\u2019t move or take actions this turn.7-8 \tThe creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, the creature does nothing this turn.9-10 \tThe creature can act and move normally.At the end of its turns, an affected target can make a Wisdom saving throw. If it succeeds, this effect ends for that target.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Druid",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "three nut shells"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 5th level or higher, the radius of the sphere increases by 5 feet for each slot level above 4th."
+},
+{
+    "Name": "Dominate Beast",
+    "Range": "60 feet",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "You attempt to beguile a beast that you can see within range. It must succeed on a Wisdom saving throw or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has advantage on the saving throw.While the beast is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as \u201cAttack that creature,\u201d \u201cRun over there,\u201d or \u201cFetch that object.\u201d If the creature completes the order and doesn\u2019t receive further direction from you, it defends and preserves itself to the best of its ability.You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn\u2019t do anything that you don\u2019t allow it to do. During this time, you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.Each time the target takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw succeeds, the spell ends.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Ranger (Optional)",
+        "Sorcerer"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell with a 5th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 6th-level spell slot, the duration is concentration, up to 1 hour. When you use a spell slot of 7th level or higher, the duration is concentration, up to 8 hours"
+},
+{
+    "Name": "Dominate Person",
+    "Range": "60 feet",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "You attempt to beguile a humanoid that you can see within range. It must succeed on a Wisdom saving throw or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has advantage on the saving throw.While the target is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as \"Attack that creature\", \"Run over there\", or \"Fetch that object\". If the creature completes the order and doesn\u2019t receive further direction from you, it defends and preserves itself to the best of its ability.You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn\u2019t do anything that you don\u2019t allow it to do. During this time you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.Each time the target takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw succeeds, the spell ends.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a 6th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 7th-level spell slot, the duration is concentration, up to 1 hour. When you use a spell slot of 8th level or higher, the duration is concentration, up to 8 hours."
+},
+{
+    "Name": "Geas",
+    "Range": "60 feet",
+    "Level": "5th-level",
+    "CastTime": "1 minute",
+    "Description": "You place a magical command on a creature that you can see within range, forcing it to carry out some service or refrain from some action or course of activity as you decide.If the creature can understand you, it must succeed on a Wisdom saving throw or become charmed by you for the duration. While the creature is charmed by you, it takes 5d10 psychic damage each time it acts in a manner directly counter to your instructions, but no more than once each day. A creature that can\u2019t understand you is unaffected by the spell.You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends. You can end the spell early by using an action to dismiss it. A Remove Curse, Greater Restoration, or Wish spell also ends it.",
+    "Duration": "30 days",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Cleric",
+        "Druid",
+        "Paladin",
+        "Wizard"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 7th or 8th level, the duration is 1 year. When you cast this spell using a spell slot of 9th level, the spell lasts until it is ended by one of the spells mentioned above."
+},
+{
+    "Name": "Hold Monster",
+    "Range": "90 feet",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a small, straight piece of iron"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them."
+},
+{
+    "Name": "Modify Memory",
+    "Range": "30 feet",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "You attempt to reshape another creature\u2019s memories. One creature that you can see must make a Wisdom saving throw. If you are fighting the creature, it has advantage on the saving throw. On a failed save, the target becomes charmed by you for the duration. The charmed target is incapacitated and unaware of its surroundings, though it can still hear you. If it takes any damage or is targeted by another spell, this spell ends, and none of the target\u2019s memories are modified.While this charm lasts, you can affect the target\u2019s memory of an event that it experienced within the last 24 hours and that lasted no more than 10 minutes. You can permanently eliminate all memory of the event, allow the target to recall the event with perfect clarity and exacting detail, change its memory of the details of the event, or create a memory of some other event.You must speak to the target to describe how its memories are affected, and it must be able to understand your language for the modified memories to take root. Its mind fills in any gaps in the details of your description. If the spell ends before you have finished describing the modified memories, the creature\u2019s memory isn\u2019t altered. Otherwise, the modified memories take hold when the spell ends.A modified memory doesn\u2019t necessarily affect how a creature behaves, particularly if the memory contradicts the creature\u2019s natural inclinations, alignment, or beliefs. An illogical modified memory, such as implanting a memory of how much the creature enjoyed dousing itself in acid, is dismissed, perhaps as a bad dream. The DM might deem a modified memory too nonsensical to affect a creature in a significant manner.A Remove Curse or Greater Restoration spell cast on the target restores the creature\u2019s true memory.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "If you cast this spell using a spell slot of 6th level or higher, you can alter the target\u2019s memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature\u2019s past (9th level)."
 }]

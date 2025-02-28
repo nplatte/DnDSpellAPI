@@ -494,4 +494,273 @@
         "S"
     ],
     "HigherLevels": ""
+},
+{
+    "Name": "Aura of Life",
+    "Range": "Self (30-foot radius)",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "Life-preserving energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each non-hostile creature in the aura (including you) has resistance to necrotic damage, and its hit point maximum can\u2019t be reduced. In addition, a non-hostile, living creature regains 1 hit point when it starts its turn in the aura with 0 hit points.",
+    "Duration": "Concentration, up to 10 minutes",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric (Optional)",
+        "Paladin"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Aura of Purity",
+    "Range": "Self (30-foot radius)",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "Purifying energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each non-hostile creature in the aura (including you) can\u2019t become diseased, has resistance to poison damage, and has advantage on saving throws against effects that cause any of the following conditions: blinded, charmed, deafened, frightened, paralyzed, poisoned, and stunned.",
+    "Duration": "Concentration, up to 10 minutes",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric (Optional)",
+        "Paladin"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Banishment",
+    "Range": "60 feet",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "You attempt to send one creature that you can see within range to another place of existence. The target must succeed on a Charisma saving throw or be banished.If the target is native to the plane of existence you\u2019re on, you banish the target to a harmless demiplane. While there, the target is incapacitated. The target remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.If the target is native to a different plane of existence that the one you\u2019re on, the target is banished with a faint popping noise, returning to its home plane. If the spell ends before 1 minute has passed, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. Otherwise, the target doesn\u2019t return.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric",
+        "Paladin",
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "an item distasteful to the target"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th."
+},
+{
+    "Name": "Death Ward",
+    "Range": "Touch",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "You touch a creature and grant it a measure of protection from death. The first time the target would drop to 0 hit points as a result of taking damage, the target instead drops to 1 hit point, and the spell ends. If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spells ends.",
+    "Duration": "8 hours",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric",
+        "Paladin"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Freedom of Movement",
+    "Range": "Touch",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "You touch a willing creature. For the duration, the target\u2019s movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce the target\u2019s speed nor cause the target to be paralyzed or restrained.The target can also spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it grappled. Finally, being underwater imposes no penalties on the target\u2019s movement or attacks.",
+    "Duration": "1 hour",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Bard",
+        "Cleric",
+        "Druid",
+        "Ranger"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a leather strap, bound around the arm or a similar appendage"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Mordenkainen's Private Sanctum",
+    "Range": "120 feet",
+    "Level": "4th-level",
+    "CastTime": "10 minutes",
+    "Description": "You make an area within range magically secure. The area is a cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration or until you use an action to dismiss it.When you cast the spell, you decide what sort of security the spell provides, choosing any or all of the following properties:    Sound can\u2019t pass through the barrier at the edge of the warded area.    The barrier of the warded area appears dark and foggy, preventing vision (including darkvision) through it.    Sensors created by divination spells can\u2019t appear inside the protected area or pass through the barrier at its perimeter.    Creatures in the area can\u2019t be targeted by divination spells.    Nothing can teleport into or out of the warded area.    Planar travel is blocked within the warded area.Casting this spell on the same spot every day for a year makes this effect permanent.",
+    "Duration": "24 hours",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 5th level or higher, you can increase the size of the cube by 100 feet for each slot level beyond 4th. Thus you could protect a cube that can be up to 200 feet on one side by using a spell slot of 5th level."
+},
+{
+    "Name": "Stoneskin",
+    "Range": "Touch",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.",
+    "Duration": "Concentration, up to 1 hour",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Druid",
+        "Ranger",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "diamond dust worth 100 gp, which the spell consumes"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Antilife Shell",
+    "Range": "Self (10-foot radius)",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "A shimmering barrier extends out from you in a 10-foot radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs.The barrier lasts for the duration. The barrier prevents an affected creature from passing or reaching through. An affected creature can cast spells or make attacks with ranged or reach weapons through the barrier.If you move so that an affected creature is forced to pass through the barrier, the spell ends.",
+    "Duration": "Concentration, up to 1 hour",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Banishing Smite",
+    "Range": "Self",
+    "Level": "5th-level",
+    "CastTime": "1 bonus action",
+    "Description": "The next time you hit a creature with a weapon attack before this spell ends, your weapon crackles with force, and the attack deals an extra 5d10 force damage to the target. Additionally, if this attack reduces the target to 50 hit points of fewer, you banish it. If the target is native to a different plane of existence than the one you\u2019re on, the target disappears, returning to its home plane. If the target is native to the plane you\u2019re on, the creature vanishes into a harmless demiplane. While there, the target is incapacitated. It remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Paladin"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Circle of Power",
+    "Range": "Self (30-foot radius)",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "Divine energy radiates from you, distorting and diffusing magical energy within 30 feet of you. Until the spell ends, the sphere moves with you, centered on you. For the duration, each friendly creature in the area (including you) has advantage on saving throws against spells and other magical effects.Additionally, when an affected creature succeeds on a saving throw made against a spell or magical effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throws.",
+    "Duration": "Concentration, up to 10 minutes",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Paladin"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Dispel Evil and Good",
+    "Range": "Self",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "Shimmering energy surrounds and protects you from fey, undead, and creatures originating from beyond the Material Plane. For the duration, celestials, elementals, fey, fiends, and undead have disadvantage on attack rolls against you. You can end the spell early by using either of the following special functions.    Break Enchantment. As your action, you touch a creature you can reach that is charmed, frightened, or possessed by a celestial, an elemental, a fey, a fiend, or an undead. The creature you touch is no longer charmed, frightened, or possessed by such creatures.    Dismissal. As your action, make a melee spell attack against a celestial, an elemental, a fey, a fiend, or an undead you can reach. On a hit, you attempt to drive the creature back to its home plane. The creature must succeed on a Charisma saving throw or be sent back to its home plane (if it isn\u2019t there already). If they are already on their home plane, undead are sent to the Shadowfell, and fey are sent to the Feywild.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric",
+        "Paladin"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "holy water or powdered silver and iron"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Greater Restoration",
+    "Range": "Touch",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target\u2019s exhaustion level by one, or end one of the following effects on the target:    One effect that charmed or petrified the target    One curse, including the target\u2019s attunement to a cursed magic item    Any reduction to one of the target\u2019s ability scores    One effect reducing the target\u2019s hit point maximum",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Bard",
+        "Cleric",
+        "Druid",
+        "Ranger (Optional)"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "diamond dust worth at least 100 gp, which the spell consumes"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Planar Binding",
+    "Range": "60 feet",
+    "Level": "5th-level",
+    "CastTime": "1 hour",
+    "Description": "With this spell, you attempt to bind a celestial, an elemental, a fey, or a fiend to your service. The creature must be within range for the entire casting of the spell. (Typically, the creature is first summoned into the center of an inverted Magic Circle in order to keep it trapped while this spell is cast.) At the completion of the casting, the target must make a Charisma saving throw. On a failed save, it is bound to serve you for the duration. If the creature was summoned or created by another spell, that spell\u2019s duration is extended to match the duration of this spell.A bound creature must follow your instructions to the best of its ability. You might command the creature to accompany you on an adventure, to guard a location, or to deliver a message. The creature obeys the letter of your instructions, but if the creature is hostile to you, it strives to twist your words to achieve its own objectives. If the creature carries out your instructions completely before the spell ends, it travels to you to report this fact if you are on the same plane of existence. If you are on a different plane of existence, it returns to the place where you bound it and remains there until the spell ends.",
+    "Duration": "24 hours",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Cleric",
+        "Druid",
+        "Warlock (Optional)",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a jewel worth at least 1,000 gp, which the spell consumes"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of a higher level, the duration increases to 10 days with a 6th-level slot, 30 days with a 7th-level slot, 180 days with an 8th-level slot, or 1 year and 1 day with a 9th-level spell slot."
 }]

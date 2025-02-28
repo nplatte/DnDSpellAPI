@@ -2,7 +2,7 @@ import os, json
 
 
 SOURCES = ["PlayersHB", "Tashas", "Xanathars"]
-LEVELS = ["cantrip", "first", "second", "third"]
+LEVELS = ["cantrip", "first", "second", "third", "fourth", "fifth"]
 SCHOOLS = ["Abjuration", "Conjuration", "Divination", "Enchantment", "Evocation", "Illusion", "Necromancy", "Transmutation"]
 SPELL_COUNT = {source: {s:0 for s in SCHOOLS} for source in SOURCES}
 

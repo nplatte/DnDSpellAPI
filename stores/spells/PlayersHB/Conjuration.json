@@ -543,4 +543,284 @@
         "a gilded flower worth at least 300 gp"
     ],
     "HigherLevels": "When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell\u2019s level appears in the stat block."
+},
+{
+    "Name": "Conjure Minor Elementals",
+    "Range": "90 feet",
+    "Level": "4th-level",
+    "CastTime": "1 minute",
+    "Description": "You summon elementals that appear in unoccupied spaces that you can see within range. You choose one the following options for what appears:    One elemental of challenge rating 2 or lower    Two elementals of challenge rating 1 or lower    Four elementals of challenge rating 1/2 or lower    Eight elementals of challenge rating 1/4 or lowerAn elemental summoned by this spell disappears when it drops to 0 hit points or when the spell ends.The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don\u2019t issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions. The DM has the creatures\u2019 statistics.",
+    "Duration": "Concentration, up to 1 hour",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot."
+},
+{
+    "Name": "Conjure Woodland Beings",
+    "Range": "60 feet",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "You summon fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:    One fey creature of challenge rating 2 or lower    Two fey creatures of challenge rating 1 or lower    Four fey creatures of challenge rating 1/2 or lower    Eight fey creatures of challenge rating 1/4 or lowerA summoned creature disappears when it drops to 0 hit points or when the spell ends.The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don\u2019t issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions. The DM has the creatures\u2019 statistics.",
+    "Duration": "Concentration, up to 1 hour",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Ranger"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "one holly berry per creature summoned"
+    ],
+    "HigherLevels": "When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot, and three times as many with an 8th-level slot."
+},
+{
+    "Name": "Dimension Door",
+    "Range": "500 feet",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "You teleport yourself from your current location to any other spot within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as \"200 feet straight downward\" or \"upward to the northwest at a 45-degree angle, 300 feet\".You can bring along objects as long as their weight doesn\u2019t exceed what you can carry. You can also bring one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you cast this spell.If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take 4d6 force damage, and the spell fails to teleport you.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Evard's Black Tentacles",
+    "Range": "90 feet",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in the area into difficult terrain.When a creature enters the affected area for the first time on a turn or starts its turn there, the creature must succeed on a Dexterity saving throw or take 3d6 bludgeoning damage and be restrained by the tentacles until the spell ends. A creature that starts its turn in the area and is already restrained by the tentacles takes 3d6 bludgeoning damage.A creature restrained by the tentacles can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a piece of tentacle from a giant octopus or a giant squid"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Grasping Vine",
+    "Range": "30 feet",
+    "Level": "4th-level",
+    "CastTime": "1 bonus action",
+    "Description": "You conjure a vine that sprouts from the ground in an unoccupied space of your choice that you can see within range. When you cast this spell, you can direct the vine to lash out at a creature within 30 feet of it that you can see. That creature must succeed on a Dexterity saving throw or be pulled 20 feet directly toward the vine.Until the spell ends, you can direct the vine to lash out at the same creature or another one as a bonus action on each of your turns.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Ranger"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Guardian of Faith",
+    "Range": "30 feet",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "A Large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within range. The guardian occupies that space and is indistinct except for a gleaming sword and shield emblazoned with the symbol of your deity.Any creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a Dexterity saving throw. The creature takes 20 radiant damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.",
+    "Duration": "8 hours",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Leomund's Secret Chest",
+    "Range": "Touch",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "You hide a chest, and all its contents, on the Ethereal Plane. You must touch the chest and the miniature replica that serves as a material component for the spell. The chest can contain up to 12 cubic feet of nonliving material (3 feet by 2 feet by 2 feet).While the chest remains on the Ethereal Plane, you can use an action and touch the replica to recall the chest. It appears in an unoccupied space on the ground within 5 feet of you. You can send the chest back to the Ethereal Plane by using an action and touching both the chest and the replica.After 60 days, there is a cumulative 5 percent chance per day that the spell\u2019s effect ends. This effect ends if you cast this spell again, if the smaller replica chest is destroyed, or if you choose to end the spell as an action. If the spell ends and the larger chest is on the Ethereal Plane, it is irretrievably lost.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer,Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Mordenkainen's Faithful Hound",
+    "Range": "30 feet",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "You conjure a phantom watchdog in an unoccupied space that you can see within range, where it remains for the duration, until you dismiss it as an action, or until you move more than 100 feet away from it.The hound is invisible to all creatures except you and can\u2019t be harmed. When a Small or larger creature comes within 30 feet of it without first speaking the password that you specify when you cast this spell, the hound starts barking loudly. The hound sees invisible creatures and can see into the Ethereal Plane. It ignores illusions.At the start of each of your turns, the hound attempts to bite one creature within 5 feet of it that is hostile to you. The hound\u2019s attack bonus is equal to your spellcasting ability modifier + your proficiency bonus. On a hit, it deals 4d8 piercing damage.",
+    "Duration": "8 hours",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a tiny silver whistle, a piece of bone, and a thread"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Cloudkill",
+    "Range": "120 feet",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "You create a 20-foot-radius sphere of poisonous, yellow-green fog centered on a point you choose within range. The fog spreads around corners. It lasts for the duration or until strong wind disperses the fog, ending the spell. Its area is heavily obscured.When a creature enters the spell\u2019s area for the first time on a turn or starts its turn there, that creature must make a Constitution saving throw. The creature takes 5d8 poison damage on a failed save, or half as much damage on a successful one. Creatures are affected even if they hold their breath or don\u2019t need to breathe.The fog moves 10 feet away from you at the start of each of your turns, rolling along the surface of the ground. The vapors, being heavier than air, sink to the lowest level of the land, even pouring down openings.",
+    "Duration": "Concentration, up to 10 minutes",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th."
+},
+{
+    "Name": "Conjure Elemental",
+    "Range": "90 feet",
+    "Level": "5th-level",
+    "CastTime": "1 minute",
+    "Description": "You call forth an elemental servant. Choose an area of air, earth, fire, or water that fills a 10-foot cube within range. An elemental of challenge rating 5 or lower appropriate to the area you chose appears in an unoccupied space within 10 feet of it. For example, a fire elemental emerges from a bonfire, and an earth elemental rises up from the ground. The elemental disappears when it drops to 0 hit points or when the spell ends.The elemental is friendly to you and your companions for the duration. Roll initiative for the elemental, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don\u2019t issue any commands to the elemental, it defends itself from hostile creatures but otherwise takes no actions.If your concentration is broken, the elemental doesn\u2019t disappear. Instead, you lose control of the elemental, it becomes hostile toward you and your companions, and it might attack. An uncontrolled elemental can\u2019t be dismissed by you, and it disappears 1 hour after you summoned it. The DM has the elemental\u2019s statistics.",
+    "Duration": "Concentration, up to 1 hour",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th."
+},
+{
+    "Name": "Conjure Volley",
+    "Range": "150 feet",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "You fire a piece of nonmagical ammunition from a ranged weapon or throw a nonmagical weapon into the air and choose a point within range. Hundreds of duplicates of the ammunition or weapon fall in a volley from above and then disappear. Each creature in a 40-foot-radius, 20-foot-high cylinder centered on that point must make a Dexterity saving throw. A creature takes 8d8 damage on a failed save, or half as much damage on a successful one. The damage type is the same as that of the ammunition or weapon.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Ranger"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "one piece of ammunition or one thrown weapon"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Insect Plague",
+    "Range": "300 feet",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "Swarming, biting locusts fill a 20-foot-radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration, and its area is lightly obscured. The sphere\u2019s area is difficult terrain.When the area appears, each creature in it must make a Constitution saving throw. A creature takes 4d10 piercing damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell\u2019s area for the first time on a turn or ends its turn there.",
+    "Duration": "Concentration, up to 10 minutes",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric",
+        "Druid",
+        "Sorcerer"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a few grains of sugar, some kernels of grain, and a smear of fat"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d10 for each slot level above 5th."
+},
+{
+    "Name": "Teleportation Circle",
+    "Range": "10 feet",
+    "Level": "5th-level",
+    "CastTime": "1 minute",
+    "Description": "As you cast the spell, you draw a 10-foot-diameter circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you.A shimmering portal opens within the circle you drew and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 5 feet of the destination circle or in the nearest unoccupied space if that space is occupied.Many major temples, guilds, and other important places have permanent teleportation circles inscribed somewhere within their confines. Each such circle includes a unique sigil sequence \u2013 a string of magical runes arranged in a particular pattern. When you first gain the ability to cast this spell, you learn the sigil sequences for two destinations on the Material Plane, determined by the DM. You can learn additional sigil sequences during your adventures. You can commit a new sigil sequence to memory after studying it for 1 minute.You can create a permanent teleportation circle by casting this spell in the same location every day for one year. You need not use the circle to teleport when you cast the spell in this way.",
+    "Duration": "1 round",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Sorcerer",
+        "Warlock (Optional)",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "M",
+        "rare chalks and inks infused with precious gems worth 50 gp, which the spell consumes"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Tree Stride",
+    "Range": "Self",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 feet.Both trees must be living and at least the same size as you. You must use 5 feet of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 feet and, as part of the move used to enter the tree, can either pass into one of those trees or step out of the tree you\u2019re in. You appear in a spot of your choice within 5 feet of the destination tree, using another 5 feet of movement. If you have no movement left, you appear within 5 feet of the tree you entered.You can use this transportation ability once per round for the duration. You must end each turn outside a tree.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Ranger"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
 }]

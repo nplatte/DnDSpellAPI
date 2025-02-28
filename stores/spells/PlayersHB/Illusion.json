@@ -339,4 +339,149 @@
         "S"
     ],
     "HigherLevels": ""
+},
+{
+    "Name": "Greater Invisibility",
+    "Range": "Touch",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "You or a creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target\u2019s person.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Hallucinatory Terrain",
+    "Range": "300 feet",
+    "Level": "4th-level",
+    "CastTime": "10 minutes",
+    "Description": "You make natural terrain in a 150-foot cube in range look, sound, and smell like some other sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren\u2019t changed in appearance.The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to see through the illusion. If the difference isn\u2019t obvious by touch, a creature carefully examining the illusion can attempt an Intelligence (Investigation) check against your spell save DC to disbelieve it. A creature who discerns the illusion for what it is, sees it as a vague image superimposed on the terrain.",
+    "Duration": "24 hours",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Druid",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a stone, a twig, and a bit of green plant"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Phantasmal Killer",
+    "Range": "120 feet",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature.The target must make a Wisdom saving throw. On a failed save, the target becomes frightened for the duration. At the end of each of the target\u2019s turns before the spell ends, the target must succeed on a Wisdom saving throw or take 4d10 psychic damage. On a successful save, the spell ends.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard (Optional)",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th."
+},
+{
+    "Name": "Creation",
+    "Range": "30 feet",
+    "Level": "5th-level",
+    "CastTime": "1 minute",
+    "Description": "You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within range: soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5-foot cube, and the object must be of a form and material that you have seen before.The duration depends on the object\u2019s material. If the object is composed of multiple materials, use the shortest duration.Material \tDurationVegetable matter \t1 dayStone, crystal \t12 hoursPrecious metals \t1 hourGems \t10 minutesAdamantine, Mithral \t1 minuteUsing any material created by this spell as another spell\u2019s material component causes that spell to fail.",
+    "Duration": "Special",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a tiny piece of matter of the same type of the item you plan to create"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 6th level or higher, the cube increases by 5 feet for each slot level above 5th."
+},
+{
+    "Name": "Dream",
+    "Range": "Special",
+    "Level": "5th-level",
+    "CastTime": "1 minute",
+    "Description": "This spell shapes a creature\u2019s dreams. Choose a creature known to you as the target of this spell. The target must be on the same plane of existence as you. Creatures that don\u2019t sleep, such as elves, can\u2019t be contacted by this spell. You, or a willing creature you touch, enters a trance state, acting as a messenger. While in the trance, the messenger is aware of their surroundings, but can\u2019t take actions or move.If the target is asleep, the messenger appears in the target\u2019s dreams and can converse with the target as long as it remains asleep, through the duration of the spell. The messenger can also shape the environment of the dream, creating landscapes, objects, and other images. The messenger can emerge from the trance at any time, ending the effect of the spell early. The target recalls the dream perfectly upon waking. If the target is awake when you cast the spell, the messenger knows it, and can either end the trance (and the spell) or wait for the target to fall asleep, at which point the messenger appears in the target\u2019s dreams.You can make the messenger appear monstrous and terrifying to the target. If you do, the messenger can deliver a message of no more than ten words and then the target must make a Wisdom saving throw. On a failed save, echoes of the phantasmal monstrosity spawn a nightmare that lasts the duration of the target\u2019s sleep and prevents the target from gaining any benefit from that rest. In addition, when the target wakes up, it takes 3d6 psychic damage.If you have a body part, lock of hair, clipping from a nail, or similar portion of the target\u2019s body, the target makes its saving throw with disadvantage.",
+    "Duration": "8 hours",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Mislead",
+    "Range": "Self",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "You become invisible at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends if you attack or cast a spell.You can use your action to move your illusory double up to twice your speed and make it gesture, speak, and behave in whatever way you choose.You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.",
+    "Duration": "Concentration, up to 1 hour",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Warlock (Optional)",
+        "Wizard"
+    ],
+    "Components": [
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Seeming",
+    "Range": "30 feet",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "This spell allows you to change the appearance of any number of creatures that you can see within range. You give each target you choose a new, illusory appearance. An unwilling target can make a Charisma saving throw, and if it succeeds, it is unaffected by this spell.The spell disguises physical appearances as well as clothing, armor, weapons, and equipment. You can make each creature seem 1 foot shorter or taller and appear thin, fat, or in-between. You can\u2019t change a target\u2019s body type, so you must choose a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you. The spell lasts for the duration, unless you use your action to dismiss it sooner.The changes wrought by this spell fail to hold up to physical inspections. For example, if you use this spell to add a hat to a creature\u2019s outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel the creature\u2019s head and hair. If you use this spell to appear thinner then you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.A creature can use its action to inspect a target and make an Intelligence (Investigation) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.",
+    "Duration": "8 hours",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
 }]

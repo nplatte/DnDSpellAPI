@@ -384,4 +384,196 @@
         "a small clay model of a ziggurat"
     ],
     "HigherLevels": ""
+},
+{
+    "Name": "Arcane Eye",
+    "Range": "30 feet",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "You create an invisible, magical eye within range that hovers in the air for the duration. You mentally receive visual information from the eye, which has normal vision and darkvision out to 30 feet. The eye can look in every direction.As an action, you can move the eye up to 30 feet in any direction. There is no limit to how far away from you the eye can move, but it can\u2019t enter another plane of existence. A solid barrier blocks the eye\u2019s movement, but the eye can pass through an opening as small as 1 inch in diameter.",
+    "Duration": "Concentration, up to 1 hour",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a bit of bat fur"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Divination",
+    "Range": "Self",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "Your magic and an offering put you in contact with a god or a god\u2019s servants. You ask a single question concerning a specific goal, event, or activity to occur within 7 days. The DM offers a truthful reply. The reply might be a short phrase, a cryptic rhyme, or an omen.The spell doesn\u2019t take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.If you cast this spell two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "True",
+    "ClassList": [
+        "Cleric",
+        "Druid (Optional)",
+        "Wizard (Optional)"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Locate Creature",
+    "Range": "Self",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "Describe or name a creature that is familiar to you. You sense the direction to the creature\u2019s location, as long as that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.The spell can locate a specific creature known to you, or the nearest creature of a specific kind (such as a human or a unicorn), so long as you have seen such a creature up close \u2013 within 30 feet \u2013 at least once. If the creature you described or named is in a different form, such as being under the effects of a polymorph spell, this spell doesn\u2019t locate the creature.This spell can\u2019t locate a creature if running water at least 10 feet wide blocks a direct path between you and the creature.",
+    "Duration": "Concentration, up to 1 hour",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Cleric",
+        "Druid",
+        "Paladin",
+        "Ranger",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a bit of fur from a bloodhound"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Commune",
+    "Range": "Self",
+    "Level": "5th-level",
+    "CastTime": "1 minute",
+    "Description": "You contact your deity or a divine proxy and ask up to three questions that can be answered with a yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question.Divine beings aren\u2019t necessarily omniscient, so you might receive \u201cunclear\u201d as an answer if a question pertains to information that lies beyond the deity\u2019s knowledge. In a case where a one-word answer could be misleading or contrary to the deity\u2019s interests, the DM might offer a short phrase as an answer instead.If you cast the spell two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer. The DM makes this roll in secret.",
+    "Duration": "1 minute",
+    "Concentration": "False",
+    "Ritual": "True",
+    "ClassList": [
+        "Cleric"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "incense and a vial of holy or unholy water"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Commune with Nature",
+    "Range": "Self",
+    "Level": "5th-level",
+    "CastTime": "1 minute",
+    "Description": "You briefly become one with nature and gain knowledge of the surrounding territory. In the outdoors, the spell gives you knowledge of the land within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn\u2019t function where nature has been replaced by construction, such as in dungeons and towns.You instantly gain knowledge of up to three facts of your choice about any of the following subjects as they relate to the area:    terrain and bodies of water    prevalent plants, minerals, animals, or peoples    powerful celestials, fey, fiends, elementals, or undead    influence from other planes of existence    buildingsFor example, you could determine the location of powerful undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "True",
+    "ClassList": [
+        "Druid",
+        "Ranger"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Contact Other Plane",
+    "Range": "Self",
+    "Level": "5th-level",
+    "CastTime": "1 minute",
+    "Description": "You mentally contact a demigod, the spirit of a long-dead sage, or some other mysterious entity from another plane. Contacting this extraplanar intelligence can strain or even break your mind. When you cast this spell, make a DC 15 Intelligence saving throw. On a failure, you take 6d6 psychic damage and are insane until you finish a long rest. While insane, you can\u2019t take actions, can\u2019t understand what other creatures say, can\u2019t read, and speak only in gibberish. A Greater Restoration spell cast on you ends this effect.On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The DM answers each question with one word, such as \"yes,\" \"no,\" \"maybe,\" \"never,\" \"irrelevant,\" or \"unclear\" (if the entity doesn\u2019t know the answer to the question). If a one-word answer would be misleading, the DM might instead offer a short phrase as an answer.",
+    "Duration": "1 minute",
+    "Concentration": "False",
+    "Ritual": "True",
+    "ClassList": [
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Legend Lore",
+    "Range": "Self",
+    "Level": "5th-level",
+    "CastTime": "10 minutes",
+    "Description": "Name or describe a person, place, or object. The spell brings to your mind a brief summary of the significant lore about the thing you named. The lore might consist of current tales, forgotten stories, or even secret lore that has never been widely known. If the thing you named isn\u2019t of legendary importance, you gain no information. The more information you already have about the thing, the more precise and detailed the information you receive is.The information you learn is accurate but might be couched in figurative language. For example, if you have a mysterious magic axe on hand, the spell might yield this information: Woe to the evildoer whose hand touches the axe, for even the haft slices the hand of the evil ones. Only a true Child of Stone, lover and beloved of Moradin, may awaken the true powers of the axe, and only with the sacred word Rudnogg on the lips.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Cleric",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Rary's Telepathic Bond",
+    "Range": "30 feet",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures with Intelligence scores of 2 or less aren\u2019t affected by this spell.Until the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can\u2019t extend to other planes of existence.",
+    "Duration": "1 hour",
+    "Concentration": "False",
+    "Ritual": "True",
+    "ClassList": [
+        "Bard (Optional)",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "pieces of eggshell from two different kinds of creatures"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Scrying",
+    "Range": "Self",
+    "Level": "5th-level",
+    "CastTime": "10 minutes",
+    "Description": "You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you\u2019re casting this spell, it can fail the saving throw voluntarily if it wants to be observed.Knowledge \tSave ModifierSecondhand (you have heard of the target) \t+5Firsthand (you have met the target) \t+0Familiar (you know the target well) \t-5Connection \tSave ModifierLikeness or picture \t-2Possession or garment \t-4Body part, lock of hair, bit of nail, or the like\u2003 \t-10On a successful save, the target isn\u2019t affected, and you can\u2019t use this spell against it again for 24 hours.On a failed save, the spell creates an invisible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. A creature that can see invisible objects sees the sensor as a luminous orb about the size of your fist.Instead of targeting a creature, you can choose a location you have seen before as the target of this spell. When you do, the sensor appears at that location and doesn\u2019t move.",
+    "Duration": "Concentration, up to 10 minutes",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Cleric",
+        "Druid",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water"
+    ],
+    "HigherLevels": ""
 }]

@@ -321,4 +321,106 @@
         "S"
     ],
     "HigherLevels": "When you cast this spell using a spell slot of 4th level or higher, you can animate two additional objects for each slot level above 3rd."
+},
+{
+    "Name": "Elemental Bane",
+    "Range": "90 feet",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "Choose one creature you can see within range, and choose one of the following damage types: acid, cold, fire, lightning, or thunder. The target must succeed on a Constitution saving throw or be affected by the spell for its duration. The first time each turn the affected target takes damage of the chosen type, the target takes an extra 2d6 damage of that type. Moreover, the target loses any resistance to that damage type until the spell ends.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Warlock",
+        "Wizard",
+        "Artificer"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them."
+},
+{
+    "Name": "Guardian of Nature",
+    "Range": "Self",
+    "Level": "4th-level",
+    "CastTime": "1 bonus action",
+    "Description": "A nature spirit answers your call and transforms you into a powerful guardian. The transformation lasts until the spell ends. You choose one of the following forms to assume: Primal Beast or Great Tree.Primal Beast. Bestial fur covers your body, your facial features become feral, and you gain the following benefits:    Your walking speed increases by 10 feet.    You gain darkvision with a range of 120 feet.    You make Strength-based attack rolls with advantage.    Your melee weapon attacks deal an extra 1d6 force damage on a hit.Great Tree. Your skin appears barky, leaves sprout from your hair, and you gain the following benefits:    You gain 10 temporary hit points.    You make Constitution saving throws with advantage.    You make Dexterity and Wisdom-based attack rolls with advantage.    While you are on the ground, the ground within 15 feet of you is difficult terrain for your enemies.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Ranger"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Control Winds",
+    "Range": "300 feet",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "You take control of the air in a 100-foot cube that you can see within range. Choose one of the following effects when you cast the spell. The effect lasts for the spell\u2019s duration, unless you use your action on a later turn to switch to a different effect. You can also use your action to temporarily halt the effect or to restart one you\u2019ve halted.    Gusts. A wind picks up within the cube, continually blowing in a horizontal direction that you choose. You choose the intensity of the wind: calm, moderate, or strong. If the wind is moderate or strong, ranged weapon attacks that pass through it or that are made against targets within the cube have disadvantage on their attack rolls. If the wind is strong, any creature moving against the wind must spend 1 extra foot of movement for each foot moved.    Downdraft. You cause a sustained blast of strong wind to blow downward from the top of the cube. Ranged weapon attacks that pass through the cube or that are made against targets within it have disadvantage on their attack rolls. A creature must make a Strength saving throw if it flies into the cube for the first time on a turn or starts its turn there flying. On a failed save, the creature is knocked prone.    Updraft. You cause a sustained updraft within the cube, rising upward from the cube\u2019s bottom edge. Creatures that end a fall within the cube take only half damage from the fall. When a creature in the cube makes a vertical jump, the creature can jump up to 10 feet higher than normal.",
+    "Duration": "Concentration, up to 1 hour",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Skill Empowerment",
+    "Range": "Touch",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "Your magic deepens a creature\u2019s understanding of its own talent. You touch one willing creature and give it expertise in one skill of your choice; until the spell ends, the creature doubles its proficiency bonus for ability checks it makes that use the chosen skill.You must choose a skill in which the target is proficient and that isn\u2019t already benefiting from an effect, such as Expertise, that doubles its proficiency bonus.",
+    "Duration": "Concentration, up to 1 hour",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Sorcerer",
+        "Wizard",
+        "Artificer"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Transmute Rock",
+    "Range": "120 feet",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "You choose an area of stone or mud that you can see that fits within a 40-foot cube and that is within range, and choose one of the following effects.    Transmute Rock to Mud.        Nonmagical rock of any sort in the area becomes an equal volume of thick and flowing mud that remains for the spell\u2019s duration.        If you cast the spell on an area of ground, it becomes muddy enough that creatures can sink into it. Each foot that a creature moves through the mud costs 4 feet of movement, and any creature on the ground when you cast the spell must make a Strength saving throw. A creature must also make this save the first time it enters the area on a turn or ends its turn there. On a failed save, a creature sinks into the mud and is restrained, though it can use an action to end the restrained condition on itself by pulling itself free of the mud.        If you cast the spell on a ceiling, the mud falls. Any creature under the mud when it falls must make a Dexterity saving throw. A creature takes 4d8 bludgeoning damage on a failed save, or half as much damage on a successful one.    Transmute Mud to Rock.        Nonmagical mud or quicksand in the area no more than 10 feet deep transforms into soft stone for the spell\u2019s duration. Any creature in the mud when it transforms must make a Dexterity saving throw. On a failed save, a creature becomes restrained by the rock. The restrained creature can use an action to try to break free by succeeding on a Strength check (DC 20) or by dealing 25 damage to the rock around it. On a successful save, a creature is shunted safely to the surface to an unoccupied space.",
+    "Duration": "Until dispelled",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Wizard",
+        "Artificer"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "clay and water"
+    ],
+    "HigherLevels": ""
 }]

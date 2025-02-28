@@ -814,4 +814,230 @@
         "a piece of cork"
     ],
     "HigherLevels": ""
+},
+{
+    "Name": "Control Water",
+    "Range": "300 feet",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "Until the spell ends, you control any freestanding water inside an area you choose that is a cube up to 100 feet on a side. You can choose from any of the following effects when you cast this spell. As an action on your turn, you can repeat the same effect or choose a different one.Flood. You cause the water level of all standing water in the area to rise by as much as 20 feet. If the area includes a shore, the flooding water spills over onto dry land. If you choose an area in a large body of water, you instead create a 20-foot tall wave that travels from one side of the area to the other and then crashes down. Any Huge or smaller vehicles in the wave\u2019s path are carried with it to the other side. Any Huge or smaller vehicles struck by the wave have a 25 percent chance of capsizing. The water level remains elevated until the spell ends or you choose a different effect. If this effect produced a wave, the wave repeats on the start of your next turn while the flood effect lasts.Part Water. You cause water in the area to move apart and create a trench. The trench extends across the spell\u2019s area, and the separated water forms a wall to either side. The trench remains until the spell ends or you choose a different effect. The water then slowly fills in the trench over the course of the next round until the normal water level is restored.Redirect Flow. You cause flowing water in the area to move in a direction you choose, even if the water has to flow over obstacles, up walls, or in other unlikely directions. The water in the area moves as you direct it, but once it moves beyond the spell\u2019s area, it resumes its flow based on the terrain conditions. The water continues to move in the direction you chose until the spell ends or you choose a different effect.Whirlpool. This effect requires a body of water at least 50 feet square and 25 feet deep. You cause a whirlpool to form in the center of the area. The whirlpool forms a vortex that is 5 feet wide at the base, up to 50 feet wide at the top, and 25 feet tall. Any creature or object in the water and within 25 feet of the vortex is pulled 10 feet toward it. A creature can swim away from the vortex by making a Strength (Athletics) check against your spell save DC.When a creature enters the vortex for the first time on a turn or starts its turn there, it must make a Strength saving throw. On a failed save, the creature takes 2d8 bludgeoning damage and is caught in the vortex until the spell ends. On a successful save, the creature takes half damage, and isn\u2019t caught in the vortex. A creature caught in the vortex can use its action to try to swim away from the vortex as described above, but has disadvantage on the Strength (Athletics) check to do so.The first time each turn that an object enters the vortex, the object takes 2d8 bludgeoning damage, this damage occurs each round it remains in the vortex.",
+    "Duration": "Concentration, up to 10 minutes",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric",
+        "Druid",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a drop of water and a pinch of dust"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Fabricate",
+    "Range": "120 feet",
+    "Level": "4th-level",
+    "CastTime": "10 minutes",
+    "Description": "You convert raw materials into products of the same material. For example, you can fabricate a wooden bridge from a clump of trees, a rope from a patch of hemp, and clothes from flax or wool.Choose raw materials that you can see within range. You can fabricate a Large or smaller object (contained within a 10-foot cube, or eight connected 5-foot cubes), given a sufficient quantity of raw material. If you are working with metal, stone, or another mineral substance, however, the fabricated object can be no larger than Medium (contained within a single 5-foot cube). The quality of objects made by the spell is commensurate with the quality of the raw materials.Creatures or magic items can\u2019t be created or transmuted by this spell. You also can\u2019t use it to create items that ordinarily require a high degree of craftsmanship, such as jewelry, weapons, glass, or armor, unless you have proficiency with the type of artisan\u2019s tools used to craft such objects.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Giant Insect",
+    "Range": "30 feet",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "You transform up to ten centipedes, three spiders, five wasps, or one scorpion within range into giant versions of their natural forms for the duration. A centipede becomes a giant centipede, a spider becaomes a giant spider, a wasp becomes a giant wasp, and a scorpion becomes a giant scorpion.Each creature obeys your verbal commands, and in combat, they act on your turn each round. The DM has the statistics for these creatures and resolves their actions and movement.A creature remains in its giant size for the duration, until it drops to 0 hit points, or until you use an action to dismiss the effect on it.The DM might allow you to choose different targets. For example, if you transform a bee, its giant version might have the same statistics as a giant wasp.",
+    "Duration": "Concentration, up to 10 minutes",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Polymorph",
+    "Range": "60 feet",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "This spell transforms a creature that you can see within range into a new form. An unwilling creature must make a Wisdom saving throw to avoid the effect. A shapechanger automatically succeeds on this saving throw.The transformation lasts for the duration, or until the target drops to 0 hit points or dies. The new form can be any beast whose challenge rating is equal to or less than the target\u2019s (or the target\u2019s level, if it doesn\u2019t have a challenge rating). The target\u2019s game statistics, including mental ability scores, are replaced by the statistics of the chosen beast. It retains its alignment and personality.The target assumes the hit points of its new form. When it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn\u2019t reduce the creature\u2019s normal form to 0 hit points, it isn\u2019t knocked unconscious.The creature is limited in the actions it can perform by the nature of its new form, and it can\u2019t speak, cast spells, or take any other action that requires hands or speech.The target\u2019s gear melds into the new form. The creature can\u2019t activate, use, wield, or otherwise benefit from any of its equipment. This spell can\u2019t affect a target that has 0 hit points.",
+    "Duration": "Concentration, up to 1 hour",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Druid",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a caterpillar cocoon"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Stone Shape",
+    "Range": "Touch",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape that suits your purpose. So, for example, you could shape a large rock into a weapon, idol, or coffer, or make a small passage through a wall, as long as the wall is less than 5 feet thick. You could also shape a stone door or its frame to seal the door shut. The object you create can have up to two hinges and a latch, but finer mechanical detail isn\u2019t possible.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Cleric",
+        "Druid",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "soft clay, which must be worked into roughly the desired shape of the stone object"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Animate Objects",
+    "Range": "120 feet",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "Objects come to life at your command. Choose up to ten nonmagical objects within range that are not being worn or carried. Medium targets count as two objects, Large targets count as four objects, Huge targets count as eight objects. You can\u2019t animate any object larger than Huge. Each target animates and becomes a creature under your control until the spell ends or until reduced to 0 hit points.As a bonus action, you can mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.Animated Object StatisticsSize \tHP \tAC \tAttack \tAbility ScoresTiny \t20 \t18 \t+8 to hit, 1d4 + 4 damage \tStr: 4, Dex: 18Small \t25 \t16 \t+6 to hit, 1d8 + 2 damage \tStr: 6, Dex: 14Medium \t40 \t13 \t+5 to hit, 2d6 + 1 damage \tStr: 10, Dex: 12Large \t50 \t10 \t+6 to hit, 2d10 + 2 damage \tStr: 14, Dex: 10Huge \t80 \t10 \t+8 to hit, 2d12 + 4 damage \tStr: 18, Dex: 6An animated object is a construct with AC, hit points, attacks, Strength, and Dexterity determined by its size. Its Constitution is 10 and its Intelligence and Wisdom are 3, and its Charisma is 1. Its speed is 30 feet; if the objects lack legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the object is securely attached to a surface or larger object, such as a chain bolted to a wall, its speed is 0. It has blindsight with a radius of 30 feet and is blind beyond that distance. When the animated object drops to 0 hit points, it reverts to its original object form, and any remaining damage carries over to its original object form.If you command an object to attack, it can make a single melee attack against a creature within 5 feet of it. It makes a slam attack with an attack bonus and bludgeoning damage determined by its size. The DM might rule that a specific object inflicts slashing or piercing damage based on its form.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Bard",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "If you cast this spell using a spell slot of 6th level or higher, you can animate two additional objects for each slot level above 5th."
+},
+{
+    "Name": "Awaken",
+    "Range": "Touch",
+    "Level": "5th-level",
+    "CastTime": "8 hours",
+    "Description": "After spending the casting time tracing magical pathways within a precious gemstone, you touch a huge or smaller beast or plant. The target must have either no Intelligence score or an Intelligence of 3 or less.The target gains an Intelligence of 10. The target also gains the ability to speak one language you know. If the target is a plant, it gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human\u2019s. Your DM chooses statistics appropriate for the awakened plant, such as the statistics for the awakened shrub or the awakened tree.The awakened beast or plant is charmed by you for 30 days or until you and your companions do anything harmful to it. When the charmed condition ends, the awakened creature chooses whether to remain friendly to you, based on how you treated it while it was charmed.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Druid"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "an agate worth at least 1,000 gp, which the spell consumes"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Passwall",
+    "Range": "30 feet",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "A passage appears at a point of your choice that you can see on a wooden, plaster, or stone surface (such as a wall, a ceiling, or a floor) within range, and lasts for the duration. You choose the opening\u2019s dimensions: up to 5 feet wide, 8 feet tall, and 20 feet deep. The passage creates no instability in a structure surrounding it.When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.",
+    "Duration": "1 hour",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a pinch of sesame seeds"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Reincarnate",
+    "Range": "Touch",
+    "Level": "5th-level",
+    "CastTime": "1 hour",
+    "Description": "You touch a dead humanoid or a piece of a dead humanoid. Provided that the creature has been dead no longer than 10 days, the spell forms a new adult body for it and then calls the soul to enter that body. If the target\u2019s soul isn\u2019t free or willing to do so, the spell fails.The magic fashions a new body for the creature to inhabit, which likely causes the creature\u2019s race to change. The DM rolls a d100 and consults the following table to determine what form the creature takes when restored to life, or the DM chooses a form.Reincarnation Tabled100 \tRace01-04 \tDragonborn05-13 \tDwarf, hill14-21 \tDwarf, mountain22-25 \tElf, dark26-34 \tElf, high35-42 \tElf, wood43-46 \tGnome, forest47-52 \tGnome, rock53-56 \tHalf-elf57-60 \tHalf-orc61-68 \tHalfling, lightfoot69-76 \tHalfling, stout77-96 \tHuman97-00 \tTieflingThe reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original race for the new one and changes its racial traits accordingly.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "rare oils and unguents worth at least 1,000 gp, which the spell consumes"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Swift Quiver",
+    "Range": "Touch",
+    "Level": "5th-level",
+    "CastTime": "1 bonus action",
+    "Description": "You transmute your quiver so it produces an endless supply of nonmagical ammunition, which seems to leap into your hand when you reach for it.On each of your turns until the spell ends, you can use a bonus action to make two attacks with a weapon that uses ammunition from the quiver. Each time you make such a ranged attack, your quiver magically replaces the piece of ammunition you used with a similar piece of nonmagical ammunition. Any pieces of ammunition created by this spell disintegrate when the spell ends. If the quiver leaves your possession, the spell ends.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Ranger"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a quiver containing at least one piece of ammunition"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Telekinesis",
+    "Range": "60 feet",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "You gain the ability to move or manipulate creatures or objects by thought. When you cast the spell, and as your action each round for the duration, you can exert your will on one creature or object that you can see within range, causing the appropriate effect below. You can affect the same target round after round, or choose a new one at any time. If you switch targets, the prior target is no longer affected by the spell.    Creature.        You can try to move a Huge or smaller creature. Make an ability check with your spellcasting ability contested by the creature\u2019s Strength check. If you win the contest, you move the creature up to 30 feet in any direction, including upward but not beyond the range of this spell. Until the end of your next turn, the creature is restrained in your telekinetic grip. A creature lifted upward is suspended in mid-air.        On subsequent rounds, you can use your action to attempt to maintain your telekinetic grip on the creature by repeating the contest.    Object.        You can try to move an object that weighs up to 1,000 pounds. If the object isn\u2019t being worn or carried, you automatically move it up to 30 feet in any direction, but not beyond the range of this spell.        If the object is worn or carried by a creature, you must make an ability check with your spellcasting ability contested by that creature\u2019s Strength check. If you succeed, you pull the object away from that creature and can move it up to 30 feet in any direction but not beyond the range of this spell.        You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial.",
+    "Duration": "Concentration, up to 10 minutes",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
 }]

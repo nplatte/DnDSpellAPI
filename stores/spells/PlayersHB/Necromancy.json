@@ -287,4 +287,66 @@
         "S"
     ],
     "HigherLevels": "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd."
+},
+{
+    "Name": "Blight",
+    "Range": "30 feet",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs.If you target a plant creature or a magical plant, it makes the saving throw with disadvantage, and the spell deals maximum damage to it. If you target a nonmagical plant that isn\u2019t a creature, such as a tree or shrub, it doesn\u2019t make a saving throw; it simply withers and dies.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Sorcerer",
+        "Warlock",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th."
+},
+{
+    "Name": "Contagion",
+    "Range": "Touch",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, the target is poisoned.At the end of each of the poisoned target\u2019s turns, the target must make a Constitution saving throw. If the target succeeds on three of these saves, it is no longer poisoned, and the spell ends. If the target fails three of these saves, the target is no longer poisoned, but choose one of the diseases below. The target is subjected to the chosen disease for the spell\u2019s duration.Since this spell induces a natural disease in its target, any effect that removes a disease or otherwise ameliorates a disease\u2019s effects apply to it.    Blinding Sickness. Pain grips the creature\u2019s mind, and its eyes turn milky white. The creature has disadvantage on Wisdom checks and Wisdom saving throws and is blinded.    Filth Fever. A raging fever sweeps through the creature\u2019s body. The creature has disadvantage on Strength checks, Strength saving throws, and attack rolls that use Strength.    Flesh Rot. The creature\u2019s flesh decays. The creature has disadvantage on Charisma checks and vulnerability to all damage.    Mindfire. The creature\u2019s mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the confusion spell during combat.    Seizure. The creature is overcome with shaking. The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity.    Slimy Doom. The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is stunned until the end of its next turn.",
+    "Duration": "7 days",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric",
+        "Druid"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Raise Dead",
+    "Range": "Touch",
+    "Level": "5th-level",
+    "CastTime": "1 hour",
+    "Description": "You return a dead creature you touch to life, provided that it has been dead no longer than 10 days. If the creature\u2019s soul is both willing and at liberty to rejoin the body, the creature returns to life with 1 hit point.This spell also neutralizes any poison and cures nonmagical diseases that affected the creature at the time it died. This spell doesn\u2019t, however, remove magical diseases, curses, or similar effects; if these aren\u2019t first removed prior to casting the spell, they take effect when the creature returns to life. The spell can\u2019t return an undead creature to life.This spell closes all mortal wounds, but it doesn\u2019t restore missing body parts. If the creature is lacking body parts or organs integral for its survival \u2013 its head, for instance \u2013 the spell automatically fails.Coming back from the dead is an ordeal. The target takes a -4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Cleric",
+        "Paladin"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a diamond worth at least 500 gp, which the spell consumes"
+    ],
+    "HigherLevels": ""
 }]

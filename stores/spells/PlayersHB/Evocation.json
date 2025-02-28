@@ -44,7 +44,7 @@
     "Range": "120 feet",
     "Level": "cantrip",
     "CastTime": "1 action",
-    "Description": "You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.",
+    "Description": "You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn\u2019t being worn or carried.",
     "Duration": "Instantaneous",
     "Concentration": "False",
     "Ritual": "False",
@@ -790,6 +790,229 @@
         "S",
         "M",
         "a short piece of fine copper wire"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Fire Shield",
+    "Range": "Self",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "Thin and wispy flames wreathe your body for the duration, shedding bright light in a 10-foot radius and dim light for an additional 10 feet. You can end the spell early by using an action to dismiss it.The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you resistance to cold damage, and the chill shield grants you resistance to fire damage.In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes 2d8 fire damage from a warm shield, or 2d8 cold damage from a cold shield.",
+    "Duration": "10 minutes",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid (Optional)",
+        "Sorcerer (Optional)",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a bit of phosphorus or a firefly"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Ice Storm",
+    "Range": "300 feet",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "A hail of rock-hard ice pounds to the ground in a 20-foot-radius, 40-foot-high cylinder centered on a point within range. Each creature in the cylinder must make a Dexterity saving throw. A creature takes 2d8 bludgeoning damage and 4d6 cold damage on a failed save, or half as much damage on a successful one.Hailstones turn the storm\u2019s area of effect into difficult terrain until the end of your next turn.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a pinch of dust and a few drops of water"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 5th level or higher, the bludgeoning damage increases by 1d8 for each slot level above 4th."
+},
+{
+    "Name": "Otiluke's Resilient Sphere",
+    "Range": "30 feet",
+    "Level": "4th-level",
+    "CastTime": "1 action",
+    "Description": "A sphere of shimmering force encloses a creature or object of Large size or smaller within range. An unwilling creature must make a Dexterity saving throw. On a failed save, the creature is enclosed for the duration.Nothing \u2013 not physical objects, energy, or other spell effects \u2013 can pass through the barrier, in or out, though a creature in the sphere can breathe there. The sphere is immune to all damage, and a creature or object inside can\u2019t be damaged by attacks or effects originating from outside, nor can a creature inside the sphere damage anything outside it.The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can use its action to push against the sphere\u2019s walls and thus roll the sphere at up to half the creature\u2019s speed. Similarly, the globe can be picked up and moved by other creatures.A Disintegrate spell targeting the globe destroys it without harming anything inside it.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Staggering Smite",
+    "Range": "Self",
+    "Level": "4th-level",
+    "CastTime": "1 bonus action",
+    "Description": "The next time you hit a creature with a melee weapon attack during this spell\u2019s duration, your weapon pierces both body and mind, and the attack deals an extra 4d6 psychic damage to the target. The target must make a Wisdom saving throw. On a failed save, it has disadvantage on attack rolls and ability checks, and can\u2019t take reactions, until the end of its next turn.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Paladin"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Bigby's Hand",
+    "Range": "120 feet",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "You create a Large hand of shimmering, translucent force in an unoccupied space that you can see within range. The hand lasts for the spell\u2019s duration, and it moves at your command, mimicking the movements of your own hand.The hand is an object that has AC 20 and hit points equal to your hit point maximum. If it drops to 0 hit points, the spell ends. It has a Strength of 26 (+8) and a Dexterity of 10 (+0). The hand doesn\u2019t fill its space.When you cast the spell and as a bonus action on your subsequent turns, you can move the hand up to 60 feet and then cause one of the following effects with it.    Clenched Fist. The hand strikes one creature or object within 5 feet of it. Make a melee spell attack for the hand using your game statistics. On a hit, the target takes 4d8 force damage.    Forceful Hand. The hand attempts to push a creature within 5 feet of it in a direction you choose. Make a check with the hand\u2019s Strength contested by the Strength (Athletics) check of the target. If the target is Medium or smaller, you have advantage on the check. If you succeed, the hand pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier. The hand moves with the target to remain within 5 feet of it.    Grasping Hand. The hand attempts to grapple a Huge or smaller creature within 5 feet of it. You use the hand\u2019s Strength score to resolve the grapple. If the target is Medium or smaller, you have advantage on the check. While the hand is grappling the target, you can use a bonus action to have the hand crush it. When you do so, the target takes bludgeoning damage equal to 2d6 + your spellcasting ability modifier.    Interposing Hand. The hand interposes itself between you and a creature you choose until you give the hand a different command. The hand moves to stay between you and the target, providing you with half cover against the target. The target can\u2019t move through the hand\u2019s space if its Strength score is less than or equal to the hand\u2019s Strength score. If its Strength score is higher than the hand\u2019s Strength score, the target can move toward you through the hand\u2019s space, but that space is difficult terrain for the target.",
+    "Duration": "Concentration, up to 1 minute",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Artificer",
+        "Sorcerer (Optional)",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "an eggshell and a snakeskin glove"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 6th level or higher, the damage from the clenched fist option increases by 2d8 and the damage from the grasping hand increases by 2d6 for each slot level above 5th."
+},
+{
+    "Name": "Cone of Cold",
+    "Range": "Self (60-foot cone)",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "A blast of cold air erupts from your hands. Each creature in a 60-foot cone must make a Constitution saving throw. A creature takes 8d8 cold damage on a failed save, or half as much damage on a successful one. A creature killed by this spell becomes a frozen statue until it thaws.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Druid (Optional)",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a small crystal or glass cone"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th."
+},
+{
+    "Name": "Destructive Wave",
+    "Range": "Self (30-foot radius)",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "You strike the ground, creating a burst of divine energy that ripples outward from you. Each creature you choose within 30 feet of you must succeed on a Constitution saving throw or take 5d6 thunder damage, as well as 5d6 radiant or necrotic damage (your choice), and be knocked prone. A creature that succeeds on its saving throw takes half as much damage and isn\u2019t knocked prone.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Paladin"
+    ],
+    "Components": [
+        "V"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Flame Strike",
+    "Range": "60 feet",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "A vertical column of divine fire roars down from the heavens in a location you specify. Each creature in a 10-foot radius, 40-foot-high cylinder centered on a point within range must make a Dexterity saving throw. A creature takes 4d6 fire damage and 4d6 radiant damage on a failed save, or half as much damage on a successful one.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "pinch of sulfur"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each slot level above 5th."
+},
+{
+    "Name": "Hallow",
+    "Range": "Touch",
+    "Level": "5th-level",
+    "CastTime": "24 hours",
+    "Description": "You touch a point and infuse an area around it with holy (or unholy) power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect a hallow spell. The affected area is subject to the following effects.First, celestials, elementals, fey, fiends, and undead can\u2019t enter the area, nor can such creatures charm, frighten, or possess creatures within it. Any creature charmed, frightened, or possessed by such a creature is no longer charmed, frightened, or possessed upon entering the area. You can exclude one or more of those types of creatures from this effect.Second, you can bind an extra effect to the area. Choose the effect from the following list, or choose an effect offered by the DM. Some of these effects apply to creatures in the area; you can designate whether the effect applies to all creatures, creatures that follow a specific deity or leader, or creatures of a specific sort, such as orcs or trolls. When a creature that would be affected enters the spell\u2019s area for the first time on a turn or starts its turn there, it can make a Charisma saving throw. On a success, the creature ignores the extra effect until it leaves the area.    Courage. Affected creatures can\u2019t be frightened while in the area.    Darkness. Darkness fills the area. Normal light, as well as magical light created by spells of a lower level than the slot you used to cast this spell, can\u2019t illuminate the area.    Daylight. Bright light fills the area. Magical darkness created by spells of a lower level than the slot you used to cast this spell can\u2019t extinguish the light.    Energy Protection. Affected creatures in the area have resistance to one damage type of your choice, except for bludgeoning, piercing, or slashing.    Energy Vulnerability. Affected creatures in the area have vulnerability to one damage type of your choice, except for bludgeoning, piercing, or slashing.    Everlasting Rest. Dead bodies interred in the area can\u2019t be turned into undead.    Extradimensional Interference. Affected creatures can\u2019t move or travel using teleportation or by extradimensional or interplanar means.    Fear. Affected creatures are frightened while in the area.    Silence. No sound can emanate from within the area, and no sound can reach into it.    Tongues. Affected creatures can communicate with any other creature in the area, even if they don\u2019t share a common language.",
+    "Duration": "Until dispelled",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Cleric"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "herbs, oils, and incense worth at least 1,000 gp, which the spell consumes"
+    ],
+    "HigherLevels": ""
+},
+{
+    "Name": "Mass Cure Wounds",
+    "Range": "60 feet",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "A wave of healing energy washes out from a point of your choice within range. Choose up to six creatures in a 30-foot-radius sphere centered on that point. Each target regains hit points equal to 3d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+    "Duration": "Instantaneous",
+    "Concentration": "False",
+    "Ritual": "False",
+    "ClassList": [
+        "Bard",
+        "Cleric",
+        "Druid"
+    ],
+    "Components": [
+        "V",
+        "S"
+    ],
+    "HigherLevels": "When you cast this spell using a spell slot of 6th level or higher, the healing increases by 1d8 for each slot level above 5th."
+},
+{
+    "Name": "Wall of Force",
+    "Range": "120 feet",
+    "Level": "5th-level",
+    "CastTime": "1 action",
+    "Description": "An invisible wall of force springs into existence at a point you choose within range.The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a sphere with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. In any form, the wall is 1/4 inch thick. It lasts for the duration. If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (your choice which side).Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by dispel magic. A disintegrate spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane, blocking ethereal travel through the wall.",
+    "Duration": "Concentration, up to 10 minutes",
+    "Concentration": "True",
+    "Ritual": "False",
+    "ClassList": [
+        "Wizard"
+    ],
+    "Components": [
+        "V",
+        "S",
+        "M",
+        "a pinch of powder made by crushing a clear gemstone"
     ],
     "HigherLevels": ""
 }]
