@@ -1,0 +1,168 @@
+
+Bones of the Earth
+Source: Xanathar's Guide to Everything
+6th-level transmutation
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous
+You cause up to six pillars of stone to burst from places on the ground that you can see within range. Each pillar is a cylinder that has a diameter of 5 feet and a height of up to 30 feet. The ground where a pillar appears must be wide enough for its diameter, and you can target ground under a creature if that creature is Medium or smaller. Each pillar has AC 5 and 30 hit points. When reduced to 0 hit points, a pillar crumbles into rubble, which creates an area of difficult terrain with a 10-foot radius. The rubble lasts until cleared.
+If a pillar is created under a creature, that creature must succeed on a Dexterity saving throw or be lifted by the pillar. A creature can choose to fail the save.
+If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes 6d6 bludgeoning damage and is restrained, pinched between the pillar and the obstacle. The restrained creature can use an action to make a Strength or Dexterity check (the creature’s choice) against the spell’s saving throw DC. On a success, the creature is no longer restrained and must either move off the pillar or fall off it.
+At Higher Levels. When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.
+Spell Lists. Druid
+
+
+Create Homunculus
+Source: Xanathar's Guide to Everything
+6th-level transmutation
+Casting Time: 1 hour
+Range: Touch
+Components: V, S, M (clay, ash, and mandrake root, all of which the spell consumes, and a jewel-encrusted dagger worth at least 1,000 gp)
+Duration: Instantaneous
+While speaking an intricate incantation, you cut yourself with a jewel-encrusted dagger, taking 2d4 piercing damage that can’t be reduced in any way. You then drip your blood on the spell’s other components and touch them, transforming them into a special construct called a homunculus. The statistics of the homunculus are in the Monster Manual. It is your faithful companion, and it dies if you die. Whenever you finish a long rest, you can spend up to half your Hit Dice if the homunculus is on the same plane of existence as you. When you do so, roll each die and add your Constitution modifier to it. Your hit point maximum is reduced by the total, and the homunculus’s hit point maximum and current hit points are both increased by it. This process can reduce you to no lower than 1 hit point. and the change to your and the homunculus’s hit points ends when you finish your next long rest. The reduction to your hit point maximum can’t be removed by any means before then, except by the homunculus‘s death. You can have only one homunculus at a time. If you cast this spell while your homunculus lives, the spell fails.
+Spell Lists. Wizard
+
+
+Druid Grove
+Source: Xanathar's Guide to Everything
+6th-level abjuration
+Casting Time: 10 minutes
+Range: Touch
+Components: V, S, M (mistletoe, which the spell consumes, that was harvested with a golden sickle under the light of a full moon)
+Duration: 24 hours
+You invoke the spirits of nature to protect an area outdoors or underground. The area can be as small as a 30-foot cube or as large as a 90-foot cube. Buildings and other structures are excluded from the affected area. If you cast this spell in the same area every day for a year, the spell lasts until dispelled. The spell creates the following effects within the area. When you cast this spell, you can specify creatures as friends who are immune to the effects. You can also specify a password that, when spoken aloud, makes the speaker immune to these effects. The entire warded area radiates magic. A dispel magic cast on the area, if successful, removes only one of the following effects, not the entire area. That spell’s caster chooses which effect to end. Only when all its effects are gone is this spell dispelled.
+Solid Fog. You can fill any number of 5-foot squares on the ground with thick fog, making them heavily obscured. The fog reaches 10 feet high. In addition, every foot of movement through the fog costs 2 extra feet. To a creature immune to this effect, the fog obscures nothing and looks like soft mist, with motes of green light floating in the air.
+Grasping Undergrowth. You can fill any number of 5-foot squares on the ground that aren’t filled with fog with grasping weeds and vines, as if they were affected by an entangle spell. To a creature immune to this effect, the weeds and vines feel soft and reshape themselves to serve as temporary seats or beds.
+Grove Guardians. You can animate up to four trees in the area, causing them to uproot themselves from the ground. These trees have the same statistics as an awakened tree, which appears in the Monster Manual, except they can’t speak, and their bark is covered with druidic symbols. If any creature not immune to this effect enters the warded area, the grove guardians fight until they have driven off or slain the intruders. The grove guardians also obey your spoken commands (no action required by you) that you issue while in the area. If you don't give them commands and no intruders are present, the grove guardians do nothing. The grove guardians can‘t leave the warded area. When the spell ends, the magic animating them disappears, and the trees take root again if possible.
+Additional Spell Effect. You can place your choice of one of the following magical effects within the warded area:
+    A constant gust of wind in two locations of your choice
+    Spike growth in one location of your choice
+    Wind wall in two locations of your choice
+To a creature immune to this effect, the winds are a fragrant, gentle breeze, and the area of spike growth is harmless.
+Spell Lists. Druid
+
+
+Investiture of Flame
+Source: Xanathar's Guide to Everything
+6th-level transmutation
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Concentration, up to 10 minutes
+Flames race across your body, shedding bright light in a 30-foot radius and dim light for an additional 30 feet for the spell’s duration. The flames don’t harm you. Until the spell ends, you gain the following benefits:
+    You are immune to fire damage and have resistance to cold damage.
+    Any creature that moves within 5 feet of you for the first time on a turn or ends its turn there takes 1d10 fire damage.
+    You can use your action to create a line of fire 15 feet long and 5 feet wide extending from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 4d8 fire damage on a failed save, or half as much damage on a successful one.
+Spell Lists. Druid, Sorcerer, Warlock, Wizard
+
+
+Investiture of Ice
+Source: Xanathar's Guide to Everything
+6th-level transmutation
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Concentration, up to 10 minutes
+Until the spell ends, ice rimes your body, and you gain the following benefits:
+    You are immune to cold damage and have resistance to fire damage.
+    You can move across difficult terrain created by ice or snow without spending extra movement.
+    The ground in a 10-foot radius around you is icy and is difficult terrain for creatures other than you. The radius moves with you.
+    You can use your action to create a 15-foot cone of freezing wind extending from your outstretched hand in a direction you choose. Each creature in the cone must make a Constitution saving throw. A creature takes 4d6 cold damage on a failed save, or half as much damage on a successful one. A creature that fails its save against this effect has its speed halved until the start of your next turn.
+Spell Lists. Druid, Sorcerer, Warlock, Wizard
+
+
+Investiture of Stone
+Source: Xanathar's Guide to Everything
+6th-level transmutation
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Concentration, up to 10 minutes
+Until the spell ends, bits of rock spread across your body, and you gain the following benefits:
+    You have resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.
+    You can use your action to create a small earthquake on the ground in a 15-foot radius centered on you. Other creatures on that ground must succeed on a Dexterity saving throw or be knocked prone.
+    You can move across difficult terrain made of earth or stone without spending extra movement. You can move through solid earth or stone as if it was air and without destabilizing it, but you can’t end your movement there. If you do so, you are ejected to the nearest unoccupied space, this spell ends, and you are stunned until the end of your next turn.
+Spell Lists. Druid, Sorcerer, Warlock, Wizard
+
+
+Investiture of Wind
+Source: Xanathar's Guide to Everything
+6th-level transmutation
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Concentration, up to 10 minutes
+Until the spell ends, wind whirls around you, and you gain the following benefits:
+    Ranged weapon attacks made against you have disadvantage on the attack roll.
+    You gain a flying speed of 60 feet. If you are still flying when the spell ends, you fall, unless you can somehow prevent it.
+    You can use your action to create a 15-foot cube of swirling wind centered on a point you can see within 60 feet of you. Each creature in that area must make a Constitution saving throw. A creature takes 2d10 bludgeoning damage on a failed save, or half as much damage on a successful one. If a Large or smaller creature fails the save, that creature is also pushed up to 10 feet away from the center of the cube.
+Spell Lists. Druid, Sorcerer, Warlock, Wizard
+
+
+Mental Prison
+Source: Xanathar's Guide to Everything
+6th-level illusion
+Casting Time: 1 action
+Range: 60 feet
+Components: S
+Duration: Concentration, up to 1 minute
+You attempt to bind a creature within an illusory cell that only it perceives. One creature you can see within range must make an Intelligence saving throw. The target succeeds automatically if it is immune to being charmed. On a successful save, the target takes 5d10 psychic damage, and the spell ends. On a failed save, the target takes 5d10 psychic damage, and you make the area immediately around the target’s space appear dangerous to it in some way. You might cause the target to perceive itself as being surrounded by fire, floating razors, or hideous maws filled with dripping teeth. Whatever form the illusion takes, the target can’t see or hear anything beyond it and is restrained for the spell’s duration. If the target is moved out of the illusion, makes a melee attack through it, or reaches any part of its body through it, the target takes 10d10 psychic damage, and the spell ends.
+Spell Lists. Sorcerer, Warlock, Wizard
+
+
+Primordial Ward
+Source: Xanathar's Guide to Everything
+6th-level abjuration
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Concentration, up to 1 minute
+You have resistance to acid, cold, fire, lightning, and thunder damage for the spell’s duration.
+When you take damage of one of those types, you can use your reaction to gain immunity to that type of damage, including against the triggering damage. If you do so, the resistances end, and you have the immunity until the end of your next turn, at which time the spell ends.
+Spell Lists. Druid
+
+
+Scatter
+Source: Xanathar's Guide to Everything
+6th-level conjuration
+Casting Time: 1 action
+Range: 30 feet
+Components: V
+Duration: Instantaneous
+The air quivers around up to five creatures of your choice that you can see within range. An unwilling creature must succeed on a Wisdom saving throw to resist this spell. You teleport each affected target to an unoccupied space that you can see within 120 feet of you. That space must be on the ground or on a floor.
+Spell Lists. Sorcerer, Warlock, Wizard
+
+
+Soul Cage
+Source: Xanathar's Guide to Everything
+6th-level necromancy
+Casting Time: 1 reaction, which you take when a humanoid you can see within 60 feet of you dies
+Range: 60 feet
+Components: V, S, M (a tiny silver cage worth 100 gp)
+Duration: 8 hours
+This spell snatches the soul of a humanoid as it dies and traps it inside the tiny cage you use for the material component. A stolen soul remains inside the cage until the spell ends or until you destroy the cage, which ends the spell. While you have a soul inside the cage, you can exploit it in any of the ways described below. You can use a trapped soul up to six times. Once you exploit a soul for the sixth time, it is released, and the spell ends. While a soul is trapped, the dead humanoid it came from can’t be revived.
+Steal Life. You can use a bonus action to drain vigor from the soul and regain 2d8 hit points.
+Query Soul. You ask the soul a question (no action required) and receive a brief telepathic answer, which you can understand regardless of the language used. The soul knows only what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic.
+Borrow Experience. You can use a bonus action to bolster yourself with the soul’s life experience, making your next attack roll, ability check, or saving throw with advantage. If you don’t use this benefit before the start of your next turn, it is lost.
+Eyes of the Dead. You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you’re currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were concentrating on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
+A creature that can see the sensor (such as one using see invisibility or truesight) sees a translucent image of the tormented humanoid whose soul you caged.
+Spell Lists. Warlock, Wizard
+
+
+Tenser's Transformation
+Source: Xanathar's Guide to Everything
+6th-level transmutation
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (a few hairs from a bull)
+Duration: Concentration, up to 10 minutes
+You endow yourself with endurance and martial prowess fueled by magic. Until the spell ends, you can’t cast spells, and you gain the following benefits:
+    You gain 50 temporary hit points. If any of these remain when the spell ends, they are lost.
+    You have advantage on attack rolls that you make with simple and martial weapons.
+    When you hit a target with a weapon attack, that target takes an extra 2d12 force damage.
+    You have proficiency with all armor, shields, simple weapons, and martial weapons.
+    You have proficiency in Strength and Constitution saving throws.
+    You can attack twice, instead of once, when you take the Attack action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.
+Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion.
+Spell Lists. Wizard

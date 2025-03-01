@@ -1,0 +1,29 @@
+
+Summon Fiend
+Source: Tasha's Cauldron of Everything
+6th-level conjuration
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S, M (humanoid blood inside a ruby vial worth at least 600 gp)
+Duration: Concentration, up to 1 hour
+You call forth a fiendish spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Fiendish Spirit stat block. When you cast the spell, choose Demon, Devil, or Yugoloth. The creature resembles a fiend of the chosen type, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.
+The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its move to avoid danger.
+At Higher Levels. When you cast this spell using a spell slot of 7th level or higher, use the higher level wherever the spell’s level appears in the stat block.
+Spell Lists. Warlock (Optional), Wizard (Optional)
+
+
+Tasha's Otherworldly Guise
+Source: Tasha's Cauldron of Everything
+6th-level transmutation
+Casting Time: 1 bonus action
+Range: Self
+Components: V, S, M (an object engraved with a symbol of the Outer Planes, worth at least 500 gp)
+Duration: Concentration, up to 1 minute
+Uttering an incantation, you draw on the magic of the Lower Planes or Upper Planes (your choice) to transform yourself. You gain the following benefits until the spell ends:
+    You are immune to fire and poison damage (Lower Planes) or radiant and necrotic damage (Upper Planes).
+    You are immune to the poisoned condition (Lower Planes) or the charmed condition (Upper Planes).
+    Spectral wings appear on your back, giving you a flying speed of 40 feet.
+    You have a +2 bonus to AC.
+    All your weapon attacks are magical, and when you make a weapon attack, you can use your spell casting ability modifier instead of Strength or Dexterity for the attack and damage rolls.
+    You can attack twice, instead of once, when you take the Attack action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that lets you attack more than once when you take the Attack action on your turn.
+Spell Lists. Sorcerer (Optional), Warlock (Optional), Wizard (Optional)
